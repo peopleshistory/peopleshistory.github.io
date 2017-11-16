@@ -1,0 +1,172 @@
+html {
+  width: auto;
+}
+
+@font-face {
+font-family: 'Padauk';
+src: url('stylesheets/fonts/Padauk-Regular.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: 'Padauk';
+src: url('stylesheets/fonts/Padauk-Bold.ttf') format('truetype');
+font-weight: bold;
+font-style: normal;
+}
+
+body {
+  background: red;
+  width: 100%;
+  max-width: 650px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  color: black;
+  font-family: "Padauk", Avant Garde, sans-serif;
+  padding: 0.5em;
+}
+
+.funder {
+    width: 150px;
+    height: 150px;
+}
+
+.main-img {
+     width: 575px;
+     max-width: 90%;
+}
+
+.radio-tabs .state {
+    position: absolute;
+    left: -10000px;
+}
+/* #episodes:focus ~ .tabs #episodes-tab,
+#about:focus ~ .tabs #about-tab {
+    box-shadow: 0 0 3px 3px rgba(0,127,255,.5);
+} */
+
+.radio-tabs .tab {
+    display: inline-block;
+    padding: .5em;
+    vertical-align: top;
+    cursor: hand;
+    cursor: pointer;
+}
+.radio-tabs .tab:hover {
+    background-color: yellow;
+}
+
+#episodes:checked ~ .tabs #episodes-tab,
+#readings:checked ~ .tabs #readings-tab,
+#about:checked ~ .tabs #about-tab,
+#donate:checked ~ .tabs #donate-tab {
+ /* background-color: #fff;
+    border-bottom: .3em solid #fff; */
+    cursor: default;
+}
+
+.radio-tabs .panels {
+ /* background-color: #fff; */
+    padding: 0;
+}
+.radio-tabs .panel {
+    display: none;
+}
+
+#episodes:checked ~ .panels #episodes-panel,
+#readings:checked ~ .panels #readings-panel,
+#about:checked ~ .panels #about-panel,
+#donate:checked ~ .panels #donate-panel {
+    display: block;
+}
+
+h1 {
+  text-align: center;
+  font-weight: bold;
+  font-size:calc(14px + 4vw);
+}
+h2 {
+  font-size:calc(14px + 3vw);
+  font-weight: bold;
+}
+h3 {
+  text-align: center;
+  font-size:calc(14px + 2vw);
+  font-weight: bold;
+}
+h4 {
+  font-size:calc(14px + 2vw);
+  font-weight: normal;
+}
+p {
+  text-align: left;
+  font-size:calc(14px + 2vw);
+}
+
+img {
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+
+hr {
+  border: none;
+  border-top: 5px solid black;
+  margin: 1em auto; 
+  width: 60%;
+  }
+
+.profile {
+  float: left;
+  margin: 0 10px 10px 0;
+  width: 35%;
+}
+
+.clearfix {
+    overflow: auto;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+figcaption { 
+    display: block;
+    font-family: sans-serif;
+    font-size: calc(12px + 1.5vw);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    font-family: sans-serif;
+    text-align:left;
+    list-style-type: square;
+    font-size:calc(14px + 2vw);
+}
+
+ol {
+    font-family: sans-serif;
+    font-size:calc(14px + 2vw);
+}
+
+footer {
+  text-align: center;
+}
+
+.subs {
+  word-spacing: 1.2em;
+}
+
+::-moz-selection { background: yellow; }
+::selection { background: yellow; }
+
+a:link    {color:blue; background-color:transparent; text-decoration:none}
+a:visited {color:blue; background-color:transparent; text-decoration:none}
+a:hover   {color:blue; background-color:yellow; text-decoration:underline}
+a:active  {color:blue; background-color:transparent; text-decoration:underline}
