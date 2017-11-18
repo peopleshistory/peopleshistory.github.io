@@ -87,6 +87,12 @@ body {
     display: block;
 }
 
+audio {
+  display: block;
+  width: 650px;
+  max-width: 90%;
+  
+
 h1 {
   text-align: center;
   font-weight: bold;
