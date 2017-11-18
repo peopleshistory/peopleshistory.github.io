@@ -38,6 +38,11 @@ body {
      max-width: 90%;
 }
 
+.ep-img {
+     width: 650px;
+     max-width: 90%;
+}
+
 .radio-tabs .state {
     position: absolute;
     left: -10000px;
