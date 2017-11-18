@@ -88,10 +88,9 @@ body {
 }
 
 audio {
-  display: block;
   width: 650px;
   max-width: 90%;
-  
+} 
 
 h1 {
   text-align: center;
