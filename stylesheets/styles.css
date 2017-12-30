@@ -118,6 +118,11 @@ p {
   font-size:calc(14px + 2vw);
 }
 
+mark {
+   background-color: black;
+   color: red;
+}
+
 img {
     text-align: center;
     display: block;
