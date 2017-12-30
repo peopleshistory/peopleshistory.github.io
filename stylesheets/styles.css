@@ -98,11 +98,11 @@ audio {
 h1 {
   text-align: center;
   font-weight: bold;
-  font-size:calc(12px + 4vw);
-  white-space: nowrap;
+  font-size: calc(14px + 3vw);
+  /* white-space: nowrap; */
 }
 h2 {
-  font-size:calc(12px + 3vw);
+  font-size:calc(11px + 3vw);
   font-weight: bold;
 }
 h3 {
