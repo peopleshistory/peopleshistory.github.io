@@ -24,7 +24,7 @@ body {
   margin-left: auto;
   margin-right: auto;
   color: black;
-  font-family: "Padauk", Avant Garde, sans-serif;
+  font-family: "Padauk", "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
 
 .content {
