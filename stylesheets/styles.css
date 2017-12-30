@@ -121,8 +121,10 @@ p {
 mark {
    background-color: black;
    color: red;
-   font-size: 65%;
-   letter-spacing: 8px;
+   font-kerning: none;
+   font-family: cursive;
+   font-size: 70%;
+   letter-spacing: 5px;
 }
 
 img {
