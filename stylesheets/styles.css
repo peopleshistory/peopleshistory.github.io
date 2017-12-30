@@ -25,7 +25,6 @@ body {
   margin-right: auto;
   color: black;
   font-family: "Padauk", Avant Garde, sans-serif;
-  line-height: 0.9;
 }
 
 .content {
@@ -99,25 +98,24 @@ audio {
 h1 {
   text-align: center;
   font-weight: bold;
-  font-size:calc(14px + 4vw);
-  display: inline-block;
+  font-size:calc(12px + 4vw);
 }
 h2 {
-  font-size:calc(14px + 3vw);
+  font-size:calc(12px + 3vw);
   font-weight: bold;
 }
 h3 {
   text-align: center;
-  font-size:calc(14px + 2vw);
+  font-size:calc(10px + 2vw);
   font-weight: bold;
 }
 h4 {
-  font-size:calc(14px + 2vw);
+  font-size:calc(8px + 2vw);
   font-weight: normal;
 }
 p {
   text-align: left;
-  font-size:calc(14px + 2vw);
+  font-size:calc(8px + 2vw);
 }
 
 mark {
@@ -157,7 +155,7 @@ hr {
 figcaption { 
     display: block;
     font-family: sans-serif;
-    font-size: calc(12px + 1.5vw);
+    font-size: calc(6px + 1.5vw);
     text-align: center;
     margin-left: auto;
     margin-right: auto;
@@ -167,12 +165,12 @@ ul {
     font-family: sans-serif;
     text-align:left;
     list-style-type: square;
-    font-size:calc(14px + 2vw);
+    font-size:calc(10px + 2vw);
 }
 
 ol {
     font-family: sans-serif;
-    font-size:calc(14px + 2vw);
+    font-size:calc(10px + 2vw);
 }
 
 footer {
