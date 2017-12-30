@@ -25,6 +25,7 @@ body {
   margin-right: auto;
   color: black;
   font-family: "Padauk", Avant Garde, sans-serif;
+  line-height: 0.9;
 }
 
 .content {
@@ -100,28 +101,23 @@ h1 {
   font-weight: bold;
   font-size:calc(14px + 4vw);
   display: inline-block;
-  line-height: 200%;
 }
 h2 {
   font-size:calc(14px + 3vw);
   font-weight: bold;
-  line-height: 200%;
 }
 h3 {
   text-align: center;
   font-size:calc(14px + 2vw);
   font-weight: bold;
-  line-height: 200%;
 }
 h4 {
   font-size:calc(14px + 2vw);
   font-weight: normal;
-  line-height: 200%;
 }
 p {
   text-align: left;
   font-size:calc(14px + 2vw);
-  line-height: 200%;
 }
 
 mark {
