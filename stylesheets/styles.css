@@ -68,7 +68,7 @@ body {
     cursor: pointer;
 }
 .radio-tabs .tab:hover {
-    background-color: LightSeaGreen, blue;
+    background-color: lightblue;
 }
 
 #episodes:checked ~ .tabs #episodes-tab,
