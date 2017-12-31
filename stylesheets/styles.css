@@ -28,6 +28,9 @@ body {
   font-family: "Padauk", Avant Garde, sans-serif;
 }
 
+.wrapper {
+}
+
 .content {
   padding: 0.5em;
 }
@@ -45,6 +48,7 @@ body {
 .ep-img {
      width: 650px;
      max-width: 90%;
+     border: 1px solid black;
 }
 
 .radio-tabs .state {
