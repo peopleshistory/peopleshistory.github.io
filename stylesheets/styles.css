@@ -17,14 +17,14 @@ font-style: normal;
 }
 
 body {
-  background: red;
+  background: linear-gradient(352deg, red calc(112px + 16vw), bisque calc(112px + 16vw), whitesmoke calc(100% - (300px + 40vw)), red calc(100% - (300px + 40vw)));
   width: 100%;
   max-width: 650px;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
   color: black;
-  font-family: "Padauk", "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+  font-family: "Padauk", Avant Garde, sans-serif;
 }
 
 .content {
@@ -32,8 +32,8 @@ body {
 }
 
 .funder {
-    width: 150px;
-    height: 150px;
+    width: 100px;
+    height: 100px;
 }
 
 .main-img {
@@ -98,11 +98,11 @@ audio {
 h1 {
   text-align: center;
   font-weight: bold;
-  font-size: calc(14px + 3vw);
-  /* white-space: nowrap; */
+  font-size:calc(12px + 4vw);
+  white-space: nowrap;
 }
 h2 {
-  font-size:calc(11px + 3vw);
+  font-size:calc(12px + 3vw);
   font-weight: bold;
 }
 h3 {
@@ -124,7 +124,7 @@ mark {
    color: red;
    font-kerning: none;
    font-family: cursive;
-   font-size: 70%;
+   font-size: 40%;
    letter-spacing: 5px;
 }
 
