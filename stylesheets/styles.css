@@ -35,12 +35,11 @@ body {
     z-index: 2;
     top: 95%;
     left: 1%;
-    text-align: justify;
-    text-align-last: justify;
+    text-align: center;
     padding-top: .2em;
     transform-origin: top left;
     font-family: "Lucida Console", Monaco, sans-serif;
-    font-size: calc(8px + 2vw);
+    font-size: calc(8px + 1vw);
     -webkit-transform: rotate(270deg);
     -moz-transform: rotate(270deg);
     -o-transform: rotate(270deg);
