@@ -4,18 +4,18 @@ html {
 
 @font-face {
 font-family: 'Padauk';
-src:   url('stylesheets/fonts/Padauk-Regular.woff2') format('woff2'),
-       url('stylesheets/fonts/Padauk-Regular.woff') format('woff'),
-       url('stylesheets/fonts/Padauk-Regular.ttf') format('truetype');
+src:   url('fonts/Padauk-Regular.woff2') format('woff2'),
+       url('fonts/Padauk-Regular.woff') format('woff'),
+       url('fonts/Padauk-Regular.ttf') format('truetype');
 font-weight: normal;
 font-style: normal;
 }
 
 @font-face {
 font-family: 'Padauk';
-src: url('stylesheets/fonts/Padauk-Bold.woff2') format('woff2'),
-     url('stylesheets/fonts/Padauk-Bold.woff') format('woff')
-     url('stylesheets/fonts/Padauk-Bold.ttf') format('truetype');
+src: url('fonts/Padauk-Bold.woff2') format('woff2'),
+     url('fonts/Padauk-Bold.woff') format('woff')
+     url('fonts/Padauk-Bold.ttf') format('truetype');
 font-weight: bold;
 font-style: normal;
 }
@@ -29,7 +29,7 @@ body {
   margin-left: auto;
   margin-right: auto;
   color: black;
-  font-family: "Padauk", "Avant Garde", Avantgarde, "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-family: "Padauk", Avantgarde, "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
 .wrapper {
