@@ -90,6 +90,10 @@ body {
     background-color: lightblue;
 }
 
+.tabs {
+  font-size: xx-large;
+}
+
 #episodes:checked ~ .tabs #episodes-tab,
 #readings:checked ~ .tabs #readings-tab,
 #about:checked ~ .tabs #about-tab,
@@ -117,7 +121,7 @@ body {
 audio {
   width: 650px;
   max-width: 90%;
-} 
+}
 
 h1 {
   text-align: center;
@@ -161,7 +165,7 @@ img {
 hr {
   border: none;
   border-top: 5px solid black;
-  margin: 1em auto; 
+  margin: 1em auto;
   width: 60%;
   }
 
@@ -181,7 +185,7 @@ hr {
     display: table;
 }
 
-figcaption { 
+figcaption {
     display: block;
     font-family: sans-serif;
     font-size: calc(6px + 1.5vw);
@@ -204,6 +208,7 @@ ol {
 
 footer {
   text-align: center;
+  padding: 0.5em;
 }
 
 .subs {
