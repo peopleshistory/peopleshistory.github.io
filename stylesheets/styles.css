@@ -91,7 +91,7 @@ body {
 }
 
 .tabs {
-  font-size: xx-large;
+  font-size: x-large;
 }
 
 #episodes:checked ~ .tabs #episodes-tab,
