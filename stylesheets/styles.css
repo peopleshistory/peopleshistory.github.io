@@ -90,9 +90,9 @@ body {
     background-color: lightblue;
 }
 
-.tabs {
+/* .tabs {
   font-size: x-large;
-}
+}  */
 
 #episodes:checked ~ .tabs #episodes-tab,
 #readings:checked ~ .tabs #readings-tab,
@@ -126,25 +126,25 @@ audio {
 h1 {
   text-align: center;
   font-weight: bold;
-  font-size:calc(12px + 4vw);
+  font-size:calc(16px + 4vw);
   white-space: nowrap;
 }
 h2 {
-  font-size:calc(12px + 3vw);
+  font-size:calc(14px + 3vw);
   font-weight: bold;
 }
 h3 {
   text-align: center;
-  font-size:calc(10px + 2vw);
+  font-size:calc(12px + 2vw);
   font-weight: bold;
 }
 h4 {
-  font-size:calc(8px + 2vw);
+  font-size:calc(10px + 2vw);
   font-weight: normal;
 }
 p {
   text-align: left;
-  font-size:calc(8px + 2vw);
+  font-size:calc(10px + 2vw);
 }
 
 mark {
