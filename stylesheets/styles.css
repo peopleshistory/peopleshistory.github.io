@@ -22,7 +22,7 @@ font-style: normal;
 
 body {
   background-color: indianred;
-  background: linear-gradient(352deg, indianred, indianred calc(112px + 16vw), bisque calc(112px + 16vw), bisque calc(100% - (200px + 40vw)), indianred calc(100% - (200px + 40vw)), IndianRed);
+  background: linear-gradient(352deg, bisque, bisque calc(112px + 16vw), bisque calc(112px + 16vw), bisque calc(100% - (200px + 40vw)), indianred calc(100% - (200px + 40vw)), IndianRed);
   width: 100%;
   max-width: 650px;
   text-align: center;
