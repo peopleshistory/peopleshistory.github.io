@@ -24,7 +24,7 @@ body {
   background-color: indianred;
   background: linear-gradient(352deg, bisque, bisque calc(112px + 16vw), bisque calc(112px + 16vw), bisque calc(100% - (200px + 40vw)), indianred calc(100% - (200px + 40vw)), IndianRed);
   width: 100%;
-  max-width: 650px;
+  /* max-width: 650px; */
   text-align: center;
   margin-left: auto;
   margin-right: auto;
@@ -163,13 +163,30 @@ hr {
   border: none;
   border-top: 5px solid black;
   margin: 1em auto;
-  width: 60%;
+  width: 80%;
   }
 
+.person {
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+  display: -webkit-flexbox;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+  justify-content: center;
+}
+
 .profile {
-  float: left;
-  margin: 0 10px 10px 0;
-  width: 35%;
+  width: 80%;
+  margin: 10px;
+  border: 1rem solid black;
+  border-radius: 500px;
+  -webkit-border-radius: 500px;
+  -moz-border-radius: 500px;
 }
 
 .clearfix {
@@ -191,11 +208,16 @@ figcaption {
     margin-right: auto;
 }
 
+.description {
+  font-size: 3rem;
+}
+
 ul {
     font-family: sans-serif;
-    text-align:left;
-    list-style-type: square;
-    font-size:calc(10px + 2vw);
+    /* text-align:left; */
+    list-style: none;
+    /* list-style-type: square; */
+    /* font-size:calc(10px + 2vw); */
 }
 
 ol {

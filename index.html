@@ -3,144 +3,178 @@
 <head>
   <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>A People's History</title>
+
+  <link rel="stylesheet" href="stylesheets/normalize.css">
+  <link rel="stylesheet" href="stylesheets/skeleton.css">
   <link rel="stylesheet" href="stylesheets/styles.css">
+
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
   <script src='assets/js/app.js'></script>
 </head>
+
 <body>
+  <div class="container">
+    <header>
+      <h1>A People's History</h1>
+      <img class="main-img" src="assets/lawrence.png"
+      alt="lawrence-painting">
+    </header>
 
-  <header>
-    <h1>A People's History</h1>
-    <img class="main-img" src="assets/lawrence.png"
-    alt="lawrence-painting">
-  </header>
+    <!-- <div class="wrapper"><a href="#subs">Subscribe!</a></div> -->
+    <div class="radio-tabs content">
+      <input class="state" type="radio" title="Episodes" name="panel-state" id="episodes" checked />
+      <input class="state" type="radio" title="Readings" name="panel-state" id="readings" />
+      <input class="state" type="radio" title="About" name="panel-state" id="about" />
+      <input class="state" type="radio" title="Donate" name="panel-state" id="donate" />
+      <div class="tabs">
+        <label for="episodes" id="episodes-tab" class="tab"><b>Episodes</b>
+        </label>
+        <label for="readings" id="readings-tab" class="tab"><b>Readings</b>
+        </label>
+        <label for="about" id="about-tab" class="tab"><b>About</b>
+        </label>
+        <label for="donate" id="donate-tab" class="tab"><b>Support</b>
+        </label>
+      </div>
+    <div class="panels">
 
-  <!-- <div class="wrapper"><a href="#subs">Subscribe!</a></div> -->
-  <div class="radio-tabs content">
-    <input class="state" type="radio" title="Episodes" name="panel-state" id="episodes" checked />
-    <input class="state" type="radio" title="Readings" name="panel-state" id="readings" />
-    <input class="state" type="radio" title="About" name="panel-state" id="about" />
-    <input class="state" type="radio" title="Donate" name="panel-state" id="donate" />
-    <div class="tabs">
-      <label for="episodes" id="episodes-tab" class="tab"><b>Episodes</b>
-      </label>
-      <label for="readings" id="readings-tab" class="tab"><b>Readings</b>
-      </label>
-      <label for="about" id="about-tab" class="tab"><b>About</b>
-      </label>
-      <label for="donate" id="donate-tab" class="tab"><b>Support</b>
-      </label>
-    </div>
-  <div class="panels">
+      <!-- PODCAST EPISODES -->
 
-    <!-- PODCAST EPISODES -->
+      <div id="episodes-panel" class="panel active">
+        <h2>Season One</h2><hr/><h2>The Point</h2>
 
-    <div id="episodes-panel" class="panel active">
-      <h2>Season One</h2><hr/><h2>The Point</h2>
+        <h3>Episode One: "Placement"</h3>
+        <img class="ep-img" src="assets/ep1-image2.jpg"
+      alt="Dump protest image">
+        <audio controls>
+          <source src="PHP_S1E1.mp3" type="audio/mpeg">
+        </audio>
+        <p>At a brand new public housing project, Pat McCluskey joins a tenants union,
+          the Mothers for Columbia Point, and tries to close a garbage dump next door.</p>
 
-      <h3>Episode One: "Placement"</h3>
-      <img class="ep-img" src="assets/ep1-image2.jpg"
-    alt="Dump protest image">
-      <audio controls>
-        <source src="PHP_S1E1.mp3" type="audio/mpeg">
-      </audio>
-      <p>At a brand new public housing project, Pat McCluskey joins a tenants union,
-        the Mothers for Columbia Point, and tries to close a garbage dump next door.</p>
+        <div class="coming-up">
+        <h3>Episode Two: "The New Boston"</h3>
+        <img class="ep-img" src="assets/ep2-image1.jpg"
+      alt="Ed Logue image">
+        <audio controls>
+          <source src="PHP_S1E2.mp3" type="audio/mpeg">
+        </audio>
+        <p>While Ed Logue plans for the "urban renewal" of Boston, residents at Columbia
+          Point protest for basic improvements at the project, like a health care center.</p>
+        </div>
 
-      <div class="coming-up">
-      <h3>Episode Two: "The New Boston"</h3>
-      <img class="ep-img" src="assets/ep2-image1.jpg"
-    alt="Ed Logue image">
-      <audio controls>
-        <source src="PHP_S1E2.mp3" type="audio/mpeg">
-      </audio>
-      <p>While Ed Logue plans for the "urban renewal" of Boston, residents at Columbia
-        Point protest for basic improvements at the project, like a health care center.</p>
+        </div>
+
+      <!-- READINGS -->
+
+      <div id="readings-panel" class="panel">
+        <h2>Reading Series</h2>
+        <hr/>
+        <p>Speakers read primary sources related to the podcast.</p>
+
+        <h3>Frances Fox Piven reads "Modern Housing" (1934)</h3>
+        <audio controls>
+          <source src="test.mp3" type="audio/mpeg">
+        </audio>
+        <p>"Pull quote goes here." <a href="peopleshistorypod.net/modernhousing.md">Full text</a>.</p>
       </div>
 
+      <!-- ABOUT US -->
+
+      <div id="about-panel" class="panel">
+        <h2>About Us</h2>
+        <hr/>
+        <p>A People’s History is a documentary podcast about class struggle in the United
+          States. Inspired by sections from Howard Zinn's <a href="https://www.harpercollins.com/9780062397348/a-peoples-history-of-the-united-states"
+          target="_blank">landmark book</a>, each eight-episode season covers one
+          local story, told from the viewpoint of common people.</p>
+
+        <div class="clearfix">
+          <ul class="person">
+            <li class="one-half column">
+              <a><img class="profile" src="assets/php-alejandro.png" alt="alejandro-bio"></a>
+            </li>
+            <li class="one-half column">
+              <div class="description">
+                Alejandro Ramirez is a freelance writer based in Boston and the editor of
+                Spare Change News. He grew up in Lawrence, Massachusetts.
+              </div>
+            </li>
+          </ul>
+        </div>
+
+        <div class="clearfix">
+          <ul class="person">
+            <li class="one-half column">
+              <a><img class="profile" src="assets/php-qainat.png" alt="qainat-bio"></a>
+            </li>
+            <li class="one-half column">
+              <div class="description">
+                Qainat Khan grew up in Fresno, California. She is an independent reporter who
+                has produced news for WBUR's Morning Edition and currently is a digital
+                editor for GroundTruth at WGBH.
+              </div>
+            </li>
+          </ul>
+        </div>
+
+        <div class="clearfix">
+          <ul class="person">
+            <li class="one-half column">
+              <a><img class="profile" src="assets/php-conor.png" alt="conor-bio"></a>
+            </li>
+            <li class="one-half column">
+              <div class="description">
+                Conor Gillies grew up in Maine and studied history at Boston University. He
+                produces local politics and cultural programs for Radio Open Source. He
+                co-created Stylus, a WBUR miniseries about listening.
+              </div>
+            </li>
+          </ul>
+        </div>
+
+        <div class="">
+          <img class="profile" src="assets/php-alison.png" alt="alison-bio">
+        </div>
+        <p>
+          Alison Bruzek is a radio producer and science writer. She has worked on WBUR's
+          daily local news program, Radio Boston. She is also a co-creator of Trace Elements,
+          a PRX series about science.
+        </p>
+        </div>
+
+        <p>Series edited by Ben Shapiro. Original music by Marisa Anderson and Liz Harris.
+          Education and research by Rosie Busiakiewicz. Web development by Alex Silva.
+          Sound design by Anna Cataldo. More credits TK.
       </div>
 
-    <!-- READINGS -->
 
-    <div id="readings-panel" class="panel">
-      <h2>Reading Series</h2>
-      <hr/>
-      <p>Speakers read primary sources related to the podcast.</p>
+      <!-- DONATION INFORMATION -->
 
-      <h3>Frances Fox Piven reads "Modern Housing" (1934)</h3>
-      <audio controls>
-        <source src="test.mp3" type="audio/mpeg">
-      </audio>
-      <p>"Pull quote goes here." <a href="peopleshistorypod.net/modernhousing.md">Full text</a>.</p>
-    </div>
-
-    <!-- ABOUT US -->
-
-    <div id="about-panel" class="panel">
-      <h2>About Us</h2>
-      <hr/>
-      <p>A People’s History is a documentary podcast about class struggle in the United
-        States. Inspired by sections from Howard Zinn's <a href="https://www.harpercollins.com/9780062397348/a-peoples-history-of-the-united-states"
-        target="_blank">landmark book</a>, each eight-episode season covers one
-        local story, told from the viewpoint of common people.</p>
-
-      <div class="clearfix">
-      <p><img class="profile" src="assets/php-alejandro.png" alt="alejandro-bio">
-        Alejandro Ramirez is a freelance writer based in Boston and the editor of
-        Spare Change News. He grew up in Lawrence, Massachusetts.</p>
+      <div id="donate-panel" class="panel">
+        <h2>Become a Subscriber</h2>
+        <hr/>
+        <h3>A People's History relies on listener support. Please consider making a
+          <a href="patreon.com" target="_blank">donation of $1 or $5 a month via Patreon here</a>.</h3>
+        <p>There are other ways to support us. Tell your friends, or give us a good rating
+          on iTunes. You might also consider bringing A People's History Podcast
+          into your group or classroom. We offer a Season One syllabus TK,
+          with suggested actions and research questions for high-school students.</p>
       </div>
-
-      <div class="clearfix">
-      <p><img class="profile" src="assets/php-qainat.png" alt="qainat-bio">
-        Qainat Khan grew up in Fresno, California. She is an independent reporter who
-        has produced news for WBUR's Morning Edition and currently is a digital
-        editor for GroundTruth at WGBH.</p>
-      </div>
-
-      <div class="clearfix">
-      <p><img class="profile" src="assets/php-conor.png" alt="conor-bio">
-        Conor Gillies grew up in Maine and studied history at Boston University. He
-        produces local politics and cultural programs for Radio Open Source. He
-        co-created Stylus, a WBUR miniseries about listening.</p>
-      </div>
-
-      <div class="clearfix">
-      <p><img class="profile" src="assets/php-alison.png" alt="alison-bio">
-        Alison Bruzek is a radio producer and science writer. She has worked on WBUR's
-        daily local news program, Radio Boston. She is also a co-creator of Trace Elements,
-        a PRX series about science.</p>
-       </div>
-
-      <p>Series edited by Ben Shapiro. Original music by Marisa Anderson and Liz Harris.
-        Education and research by Rosie Busiakiewicz. Web development by Alex Silva.
-        Sound design by Anna Cataldo. More credits TK.
-    </div>
-
-
-    <!-- DONATION INFORMATION -->
-
-    <div id="donate-panel" class="panel">
-      <h2>Become a Subscriber</h2>
-      <hr/>
-      <h3>A People's History relies on listener support. Please consider making a
-        <a href="patreon.com" target="_blank">donation of $1 or $5 a month via Patreon here</a>.</h3>
-      <p>There are other ways to support us. Tell your friends, or give us a good rating
-        on iTunes. You might also consider bringing A People's History Podcast
-        into your group or classroom. We offer a Season One syllabus TK,
-        with suggested actions and research questions for high-school students.</p>
     </div>
   </div>
-</div>
 
-<footer>
-  <hr/>
-  <div class="clearfix">
-    <h4>A People's History is produced by Jacobin with support from the Economic Hardship Reporting Project and listeners like you.</h4>
-    <img class="funder" src="https://archive.org/download/jacobin-black/jacobin-black.png"
-    alt="jacobin-logo">
+  <footer>
+    <hr/>
+    <div class="clearfix">
+      <h4>A People's History is produced by Jacobin with support from the Economic Hardship Reporting Project and listeners like you.</h4>
+      <img class="funder" src="https://archive.org/download/jacobin-black/jacobin-black.png"
+      alt="jacobin-logo">
+    </div>
+    <h4 id="subs" class="subs"><a href="https://peopleshistorypod.net/feed.xml" target="_blank">RSS</a> <a href="https://itunes.com" target="_blank">iTunes</a> <a href="https://stitcher.com" target="_blank">Stitcher</a> <a href="https://spotify.com" target="_blank">Spotify</a></h4>
+  </footer>
   </div>
-  <h4 id="subs" class="subs"><a href="https://peopleshistorypod.net/feed.xml" target="_blank">RSS</a> <a href="https://itunes.com" target="_blank">iTunes</a> <a href="https://stitcher.com" target="_blank">Stitcher</a> <a href="https://spotify.com" target="_blank">Spotify</a></h4>
-</footer>
+
 </body>
 
 </html>
