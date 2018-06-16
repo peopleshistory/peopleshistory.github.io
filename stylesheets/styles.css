@@ -32,6 +32,10 @@ body {
   font-family: "Padauk", Avantgarde, "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
+.title {
+  margin-top: 2rem;
+}
+
 .wrapper {
     height: 60px;
     width: calc(100vh - 80px);
@@ -140,7 +144,7 @@ h4 {
   font-weight: normal;
 }
 p {
-  text-align: left;
+  text-align: center;
   font-size:calc(10px + 2vw);
 }
 
@@ -232,6 +236,7 @@ footer {
 
 .subs {
   word-spacing: 1.2em;
+  margin-top: 2rem;
 }
 
 ::-moz-selection { background: yellow; }
