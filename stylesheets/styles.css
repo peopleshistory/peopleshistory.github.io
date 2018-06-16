@@ -92,7 +92,7 @@ body {
     font-size:calc(10px + 2vw);
 }
 .radio-tabs .tab:hover {
-    background-color: lightblue;
+    /* background-color: lightblue; */
 }
 
 #episodes:checked ~ .tabs #episodes-tab,
