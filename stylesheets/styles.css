@@ -20,6 +20,9 @@ font-weight: bold;
 font-style: normal;
 }
 
+a {
+  color: blue;
+}
 body {
   background-color: indianred;
   background: linear-gradient(352deg, bisque, bisque calc(112px + 16vw), bisque calc(112px + 16vw), bisque calc(100% - (200px + 40vw)), indianred calc(100% - (200px + 40vw)), IndianRed);
