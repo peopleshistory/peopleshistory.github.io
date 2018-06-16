@@ -174,8 +174,8 @@ hr {
   }
 
 .person {
-  margin-top: 4rem;
-  margin-bottom: 4rem;
+  /* margin-top: 4rem;
+  margin-bottom: 4rem; */
   display: -webkit-flexbox;
   display: -ms-flexbox;
   display: -webkit-flex;
