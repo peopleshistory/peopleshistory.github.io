@@ -176,7 +176,7 @@ hr {
 .person {
   /* margin-top: 4rem;
   margin-bottom: 4rem; */
-  display: -webkit-flexbox;
+  /* display: -webkit-flexbox;
   display: -ms-flexbox;
   display: -webkit-flex;
   display: flex;
@@ -184,7 +184,7 @@ hr {
   -ms-flex-align: center;
   -webkit-align-items: center;
   align-items: center;
-  justify-content: center;
+  justify-content: center; */
 }
 
 .profile {
