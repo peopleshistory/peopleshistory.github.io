@@ -98,13 +98,13 @@ body {
     /* background-color: lightblue; */
 }
 
-#episodes:checked ~ .tabs #episodes-tab,
-#readings:checked ~ .tabs #readings-tab,
-#about:checked ~ .tabs #about-tab,
-#donate:checked ~ .tabs #donate-tab {
+#episodes:checked ~ .tabs #episodes-tab:visited,
+#readings:checked ~ .tabs #readings-tab:visited,
+#about:checked ~ .tabs #about-tab:visited,
+#donate:checked ~ .tabs #donate-tab:visited {
  /* background-color: #fff;
     border-bottom: .3em solid #fff; */
-    cursor: default;
+    /* background-color: #fff; */
 }
 
 .radio-tabs .panels {
@@ -249,3 +249,4 @@ a:link    {color:blue; background-color:transparent; text-decoration:none}
 a:visited {color:blue; background-color:transparent; text-decoration:none}
 a:hover   {color:blue; background-color:yellow; text-decoration:underline}
 a:active  {color:blue; background-color:transparent; text-decoration:underline}
+a:focus   {color:blue; background-color:yellow; text-decoration:underline}
