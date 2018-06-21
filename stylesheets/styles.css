@@ -154,6 +154,10 @@ p {
   margin: 0.6em auto;
 }
 
+sub {
+    font-size: 60%;
+}
+
 mark {
    background-color: black;
    color: indianred;
