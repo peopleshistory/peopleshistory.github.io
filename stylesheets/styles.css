@@ -97,20 +97,27 @@ body {
   margin-bottom: 2rem;
 }
 
+.tabs {
+    display: flex;
+    width: 100%;
+  }
+
 .radio-tabs .tab {
-    display: inline-block;
+    /* display: inline-block; */
     /* padding-right: 0.5em;
     padding-left: 0.5em; */
-    padding: 0.5em;
-    vertical-align: top;
-    cursor: pointer;
+    /* padding: 0.5em; */
+    /* vertical-align: top; */
     /* font-size:calc(10px + 2vw); */
+    /* text-align: center; */
+    cursor: pointer;
     color: grey;
-    text-align: center;
+    flex: 1 1 100%;
 }
 
 .tabs h3 {
   margin: 0;
+  font-size: calc(10px + 2vw);
 }
 
 .radio-tabs .tab:hover {
@@ -269,6 +276,7 @@ footer {
   word-spacing: 1.2em;
   margin-top: 2rem;
   text-align: center;
+  font-size: calc(10px + 2vw);
 }
 
 /* ::-moz-selection { background: yellow; }
