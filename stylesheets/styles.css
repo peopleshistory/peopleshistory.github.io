@@ -87,7 +87,7 @@ body {
 
 .tabs h3 {
   margin: 0;
-  font-size: calc(9px + 2vw);
+  font-size: calc(7px + 2vw);
 }
 
 #episodes:checked ~ .tabs #episodes-tab,
