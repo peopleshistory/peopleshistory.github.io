@@ -23,9 +23,15 @@ font-style: normal;
 a {
   color: blue;
 }
-body {
+
+header {
   background-color: indianred;
   background: linear-gradient(352deg, bisque, bisque calc(112px + 16vw), bisque calc(112px + 16vw), bisque calc(100% - (200px + 40vw)), indianred calc(100% - (200px + 40vw)), IndianRed);
+}
+
+body {
+  background-color: bisque;
+  /* background-color: indianred; */
   width: 100%;
   /* max-width: 650px; */
   text-align: center;
@@ -41,7 +47,7 @@ body {
 
 .title {
   font-size: calc(25px + 4vw);
-  /* white-space: nowrap; */
+  margin-top: 0;
 }
 
 .content {
