@@ -41,8 +41,7 @@ body {
 
 .title {
   font-size: calc(25px + 4vw);
-  /* margin-top: 1rem; */
-  white-space: nowrap;
+  /* white-space: nowrap; */
 }
 
 .content {
@@ -88,7 +87,7 @@ body {
 
 .tabs h3 {
   margin: 0;
-  font-size: calc(10px + 2vw);
+  font-size: calc(9px + 2vw);
 }
 
 #episodes:checked ~ .tabs #episodes-tab,
