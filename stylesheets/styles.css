@@ -45,25 +45,6 @@ body {
   white-space: nowrap;
 }
 
-.wrapper {
-    height: 60px;
-    width: calc(100vh - 80px);
-    position: fixed;
-    z-index: 2;
-    top: 95%;
-    left: 1%;
-    text-align: center;
-    padding-top: .2em;
-    transform-origin: top left;
-    font-family: "Lucida Console", Monaco, sans-serif;
-    font-size: calc(8px + 1vw);
-    -webkit-transform: rotate(270deg);
-    -moz-transform: rotate(270deg);
-    -o-transform: rotate(270deg);
-    -ms-transform: rotate(270deg);
-    transform: rotate(270deg);
-}
-
 .content {
   padding: 0.5em;
 }
@@ -88,10 +69,6 @@ body {
     position: absolute;
     left: -10000px;
 }
-/* #episodes:focus ~ .tabs #episodes-tab,
-#about:focus ~ .tabs #about-tab {
-    box-shadow: 0 0 3px 3px rgba(0,127,255,.5);
-} */
 
 .tabs {
   margin-top: 2rem;
@@ -104,13 +81,6 @@ body {
   }
 
 .radio-tabs .tab {
-    /* display: inline-block; */
-    /* padding-right: 0.5em;
-    padding-left: 0.5em; */
-    /* padding: 0.5em; */
-    /* vertical-align: top; */
-    /* font-size:calc(10px + 2vw); */
-    /* text-align: center; */
     cursor: pointer;
     color: grey;
     flex: 1 1 100%;
@@ -121,22 +91,14 @@ body {
   font-size: calc(10px + 2vw);
 }
 
-.radio-tabs .tab:hover {
-    /* background-color: lightblue; */
-}
-
 #episodes:checked ~ .tabs #episodes-tab,
 #readings:checked ~ .tabs #readings-tab,
 #about:checked ~ .tabs #about-tab,
 #donate:checked ~ .tabs #donate-tab {
- /* background-color: #fff;
-    border-bottom: .3em solid #fff; */
-    /* background-color: #fff; */
     color: black;
 }
 
 .radio-tabs .panels {
- /* background-color: #fff; */
     padding: 0;
 }
 .radio-tabs .panel {
@@ -158,28 +120,28 @@ audio {
 
 h1 {
   font-weight: bold;
-  line-height: 1.5;
+  line-height: 1.4;
   margin: 2rem auto;
   letter-spacing: 2px;
 }
 h2 {
   font-weight: bold;
-  line-height: 1.5;
+  line-height: 1.4;
   letter-spacing: 2px;
 }
 h3 {
   text-align: center;
-  line-height: 1.5;
+  line-height: 1.4;
   letter-spacing: 2px;
   font-weight: bold;
 }
 h4 {
-  line-height: 1.5;
+  line-height: 1.4;
   text-align: left;
   letter-spacing: 2px;
 }
 h5 {
-  line-height: 1.5;
+  line-height: 1.4;
   text-align: left;
   letter-spacing: 2px;
 }
@@ -286,9 +248,6 @@ footer {
 .photo-creds {
   font-style: italic;
 }
-
-/* ::-moz-selection { background: yellow; }
-::selection { background: yellow; } */
 
 a:link    {color:blue; background-color:transparent; text-decoration:none}
 a:visited {color:blue; background-color:transparent; text-decoration:none}
