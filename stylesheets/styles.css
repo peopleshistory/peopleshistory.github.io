@@ -161,24 +161,33 @@ h1 {
   font-weight: bold;
   /* font-size:calc(16px + 4vw); */
   /* white-space: nowrap; */
+   line-height: 1.5;
 }
 h2 {
   /* font-size:calc(14px + 3vw); */
   font-weight: bold;
+  line-height: 1.5;
 }
 h3 {
   text-align: center;
+  line-height: 1.5;
   /* margin: 0; */
   /* font-size:calc(12px + 2vw); */
   font-weight: bold;
 }
 h4 {
+  line-height: 1.5;
   /* font-size:calc(10px + 2vw); */
   /* font-weight: normal; */
   text-align: left;
 }
+h5 {
+  line-height: 1.5;
+  text-align: left;
+}
 p, .description {
   text-align: left;
+  line-height: 1.5;
   /* font-size:calc(10px + 2vw); */
 }
 
@@ -278,6 +287,10 @@ footer {
   margin-top: 2rem;
   text-align: center;
   font-size: calc(10px + 2vw);
+}
+
+.photo-creds {
+  font-style: italic;
 }
 
 /* ::-moz-selection { background: yellow; }
