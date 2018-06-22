@@ -90,21 +90,29 @@ body {
     display: inline-block;
     padding: .5em;
     vertical-align: top;
-    cursor: hand;
     cursor: pointer;
     font-size:calc(10px + 2vw);
+    color: grey;
+    text-align: center;
 }
+
+.tab b {
+  /* color: grey; */
+  /* background-color: lightgrey; */
+}
+
 .radio-tabs .tab:hover {
     /* background-color: lightblue; */
 }
 
-#episodes:checked ~ .tabs #episodes-tab:visited,
-#readings:checked ~ .tabs #readings-tab:visited,
-#about:checked ~ .tabs #about-tab:visited,
-#donate:checked ~ .tabs #donate-tab:visited {
+#episodes:checked ~ .tabs #episodes-tab,
+#readings:checked ~ .tabs #readings-tab,
+#about:checked ~ .tabs #about-tab,
+#donate:checked ~ .tabs #donate-tab {
  /* background-color: #fff;
     border-bottom: .3em solid #fff; */
     /* background-color: #fff; */
+    color: black;
 }
 
 .radio-tabs .panels {
@@ -146,8 +154,8 @@ h4 {
   font-size:calc(10px + 2vw);
   font-weight: normal;
 }
-p {
-  text-align: center;
+p, .description {
+  text-align: left;
   font-size:calc(10px + 2vw);
 }
 
@@ -187,10 +195,14 @@ hr {
   justify-content: center; */
 }
 
+.row {
+  margin-bottom: 3rem;
+}
+
 .profile {
-  width: 80%;
-  margin: 10px;
-  border: 1rem solid black;
+  width: 50%;
+  /* margin: 1rem; */
+  /* border: 1rem solid black; */
   border-radius: 500px;
   -webkit-border-radius: 500px;
   -moz-border-radius: 500px;
@@ -233,6 +245,7 @@ ol {
 }
 
 footer {
+  font-size: calc(10px + 2vw);
   text-align: center;
   padding: 0.5em;
 }
