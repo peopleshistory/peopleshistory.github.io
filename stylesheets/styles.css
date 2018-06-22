@@ -41,7 +41,7 @@ body {
 
 .title {
   font-size: calc(25px + 4vw);
-  margin-top: 1rem;
+  /* margin-top: 1rem; */
   white-space: nowrap;
 }
 
@@ -157,38 +157,31 @@ audio {
 }
 
 h1 {
-  /* text-align: center; */
-  font-weight: bold;
-  /* font-size:calc(16px + 4vw); */
-  /* white-space: nowrap; */
-   line-height: 1.5;
-}
-h2 {
-  /* font-size:calc(14px + 3vw); */
   font-weight: bold;
   line-height: 1.5;
+  margin: 2rem auto;
+  letter-spacing: 2px;
+}
+h2 {
+  font-weight: bold;
+  line-height: 1.5;
+  letter-spacing: 2px;
 }
 h3 {
   text-align: center;
   line-height: 1.5;
-  /* margin: 0; */
-  /* font-size:calc(12px + 2vw); */
+  letter-spacing: 2px;
   font-weight: bold;
 }
 h4 {
   line-height: 1.5;
-  /* font-size:calc(10px + 2vw); */
-  /* font-weight: normal; */
   text-align: left;
+  letter-spacing: 2px;
 }
 h5 {
   line-height: 1.5;
   text-align: left;
-}
-p, .description {
-  text-align: left;
-  line-height: 1.5;
-  /* font-size:calc(10px + 2vw); */
+  letter-spacing: 2px;
 }
 
 mark {
@@ -210,7 +203,7 @@ hr {
   border: none;
   border-top: 5px solid black;
   margin: 1em auto;
-  width: 80%;
+  width: 60%;
   }
 
 .person {
@@ -228,13 +221,14 @@ hr {
 }
 
 .row {
-  margin-bottom: 3rem;
+  margin: 3rem auto;
 }
 
 .profile {
-  width: 50%;
-  /* margin: 1rem; */
-  /* border: 1rem solid black; */
+  /* width: 60%; */
+  float: left;
+  margin: auto 3rem;
+  width: 35%;
   border-radius: 500px;
   -webkit-border-radius: 500px;
   -moz-border-radius: 500px;
