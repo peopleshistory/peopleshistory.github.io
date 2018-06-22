@@ -40,8 +40,9 @@ body {
 }
 
 .title {
-  font-size: calc(16px + 4vw);
-  margin-top: 2rem;
+  font-size: calc(25px + 4vw);
+  margin-top: 1rem;
+  white-space: nowrap;
 }
 
 .wrapper {
@@ -159,7 +160,7 @@ h1 {
   /* text-align: center; */
   font-weight: bold;
   /* font-size:calc(16px + 4vw); */
-  white-space: nowrap;
+  /* white-space: nowrap; */
 }
 h2 {
   /* font-size:calc(14px + 3vw); */
