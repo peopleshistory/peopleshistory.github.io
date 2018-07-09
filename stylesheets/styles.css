@@ -252,7 +252,7 @@ footer {
 }
 
 .subs {
-  /* word-spacing: 1.2em; */
+  word-spacing: 1.2em;
   margin-top: 2rem;
   text-align: center;
   font-size: calc(10px + 2vw);
@@ -260,8 +260,8 @@ footer {
 }
 
 .subs a {
-  width: 25%;
-  display: inline-block;
+  /* width: 25%;
+  display: inline-block; */
 }
 
 .photo-creds {
