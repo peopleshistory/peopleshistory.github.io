@@ -82,14 +82,15 @@ body {
 }
 
 .tabs {
-    display: flex;
     width: 100%;
   }
 
 .radio-tabs .tab {
-    cursor: pointer;
-    color: grey;
-    flex: 1 1 100%;
+  width: 23%;
+  display: inline-block;
+  cursor: pointer;
+  color: grey;
+  padding: 1%;
 }
 
 .tabs h3 {
@@ -251,10 +252,16 @@ footer {
 }
 
 .subs {
-  word-spacing: 1.2em;
+  /* word-spacing: 1.2em; */
   margin-top: 2rem;
   text-align: center;
   font-size: calc(10px + 2vw);
+  width: 100%;
+}
+
+.subs a {
+  width: 25%;
+  display: inline-block;
 }
 
 .photo-creds {
