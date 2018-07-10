@@ -77,15 +77,10 @@ body {
     left: -10000px;
 }
 
-/* .tabs {
-    width: 100%;
-} */
-
 .tabs h3 {
   margin: 0;
   cursor: pointer;
   font-size: calc(9px + 2vw);
-  /* font-weight: 500; */
 }
 
 .tabs {
@@ -94,7 +89,7 @@ body {
     margin-bottom: 2rem;
     text-align: justify;
 }
-.tabs:after {
+.tabs::after {
     content: '';
     display: inline-block;
     width: 100%;
@@ -102,10 +97,7 @@ body {
 
 .tabs li {
   display: inline-block;
-  /* width: 23%; */
-  /* cursor: pointer; */
   color: grey;
-  /* padding: 1%; */
 }
 
 #episodes:checked ~ .tabs #episodes-tab,
