@@ -77,26 +77,35 @@ body {
     left: -10000px;
 }
 
-.tabs {
-  margin-top: 4rem;
-  margin-bottom: 2rem;
+/* .tabs {
+    width: 100%;
+} */
+
+.tabs h3 {
+  margin: 0;
+    cursor: pointer;
+  font-size: calc(7px + 2vw);
+  font-weight: 500;
 }
 
 .tabs {
     width: 100%;
-  }
-
-.radio-tabs .tab {
-  width: 23%;
-  display: inline-block;
-  cursor: pointer;
-  color: grey;
-  padding: 1%;
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+    text-align: justify;
+}
+.tabs:after {
+    content: '';
+    display: inline-block;
+    width: 100%;
 }
 
-.tabs h3 {
-  margin: 0;
-  font-size: calc(7px + 2vw);
+.tabs li {
+  display: inline-block;
+  /* width: 23%; */
+  /* cursor: pointer; */
+  color: grey;
+  /* padding: 1%; */
 }
 
 #episodes:checked ~ .tabs #episodes-tab,
