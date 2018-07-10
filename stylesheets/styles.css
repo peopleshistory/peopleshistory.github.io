@@ -80,10 +80,8 @@ body {
 .tabs {
   margin-top: 4rem;
   margin-bottom: 2rem;
-}
-
-.tabs {
-    width: 100%;
+  width: 100%;
+  text-align: justify;
   }
 
 .radio-tabs .tab {
