@@ -83,7 +83,7 @@ body {
 
 .tabs h3 {
   margin: 0;
-    cursor: pointer;
+  cursor: pointer;
   font-size: calc(7px + 2vw);
   font-weight: 500;
 }
