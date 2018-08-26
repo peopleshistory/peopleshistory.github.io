@@ -29,6 +29,12 @@ header {
   background: linear-gradient(352deg, bisque, bisque calc(112px + 16vw), bisque calc(112px + 16vw), bisque calc(100% - (200px + 40vw)), indianred calc(100% - (200px + 40vw)), IndianRed);
 }
 
+.real-footer {
+  background-color: indianred;
+  background: linear-gradient(-193deg, bisque, bisque calc(112px + 16vw), bisque calc(112px + 16vw), bisque calc(100% - (200px + 40vw)), indianred calc(100% - (200px + 40vw)), IndianRed);
+  min-height: 28em;
+}
+
 body {
   background-color: bisque;
   /* background-color: indianred; */
@@ -105,7 +111,10 @@ body {
 #about:checked ~ .tabs #about-tab,
 #donate:checked ~ .tabs #donate-tab {
     color: black;
+    text-decoration:underline;
 }
+
+label:hover   {color:black; text-decoration:underline}
 
 .radio-tabs .panels {
     padding: 0;
@@ -254,17 +263,28 @@ footer {
 }
 
 .subs {
+    width: 100%;
+    /* margin-top: 5rem;
+    margin-bottom: 2rem; */
+    font-size: calc(9px + 2vw);
+    text-align: justify;
+}
+.subs li {
+  display: inline-block;
+}
+.subs::after {
+    content: '';
+    display: inline-block;
+    width: 100%;
+}
+
+/* .subs {
   word-spacing: 1.2em;
   margin-top: 2rem;
   text-align: center;
   font-size: calc(10px + 2vw);
   width: 100%;
-}
-
-.subs a {
-  /* width: 25%;
-  display: inline-block; */
-}
+} */
 
 .photo-creds {
   margin-top: 3rem;
