@@ -5,10 +5,10 @@
     xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
     xmlns:itunesu="http://www.itunesu.com/feed" version="2.0"
-	  xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:media="http://search.yahoo.com/mrss/"
     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
- 	  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
 >
 
 <!-- CHANNEL METADATA -->
@@ -51,7 +51,7 @@
     <itunes:subtitle>A People’s History is a podcast about class struggle
     in the United States.</itunes:subtitle>
 
-    <lastBuildDate>Mon, 27 Aug 2018 16:52:00 EST</lastBuildDate>
+    <lastBuildDate>Mon, 27 Aug 2018 17:11:00 EST</lastBuildDate>
     <!-- UPDATE ABOVE WITH EVERY UPDATE TO THE FEED -->
   
 <!-- SEASON ONE EPISODES - NEWEST ON TOP -->
@@ -59,7 +59,7 @@
 <item>
     <title>Trailer</title>
     <description>A People's History comes this Fall.</description>
-    <dc:creator>People's History team</dc:creator>
+    <dc:creator>People's History Podcast</dc:creator>
     <itunes:summary>A People's History comes this Fall.</itunes:summary>
     <itunes:subtitle>A People's Hitory comes this Fall.</itunes:subtitle>
     <itunesu:category itunesu:code="104108" />
