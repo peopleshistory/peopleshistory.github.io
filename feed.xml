@@ -22,7 +22,7 @@
 </itunes:category>
 <itunes:keywords>zinn, peoples, people, history, howard zinn</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
-<itunes:image href="http://www.peopleshistorypod.net/assets/php-icon.jpeg" />
+<itunes:image href="https://www.peopleshistorypod.net/assets/php-icon.jpeg" />
 <atom:link href="https://www.peopleshistorypod.net/feed.xml" rel="self" type="application/rss+xml" />
 
 <pubDate>Mon, 27 Aug 2018 00:00:00 EST</pubDate>
@@ -32,11 +32,13 @@
 <description>A People’s History is a documentary podcast about class struggle
 in the United States. Inspired by sections from Howard Zinn's landmark book, 
 each eight-episode season covers one local story, told from the viewpoint of 
-common people.</description>
+common people. Produced by Jacobin with support from the Economic Hardship
+Reporting Project.</description>
 <itunes:summary>A People’s History is a documentary podcast about class struggle
 in the United States. Inspired by sections from Howard Zinn's landmark book, 
 each eight-episode season covers one local story, told from the viewpoint of 
-common people.</itunes:summary>
+common people. Produced by Jacobin with support from the Economic Hardship
+Reporting Project.</itunes:summary>
 <itunes:subtitle>A People’s History is a podcast about class struggle
 in the United States.</itunes:subtitle>
 <lastBuildDate>Thu, 02 Feb 2012 00:00:00 EST</lastBuildDate>
@@ -45,9 +47,9 @@ in the United States.</itunes:subtitle>
 <title>Trailer</title>
 <description>A People's History comes this Fall.</description>
 <itunes:summary>A People's History comes this Fall.</itunes:summary>
-<itunes:subtitle>A People's Hitory comes this Fall..</itunes:subtitle>
+<itunes:subtitle>A People's Hitory comes this Fall.</itunes:subtitle>
 <itunesu:category itunesu:code="104108" />
-<enclosure url="https://www.peopleshistorypod.net/season1/teaser-1.mp3" type="audio/mpeg" length="1" />
+<enclosure url="https://www.peopleshistorypod.net/season1/teaser-1.mp3" type="audio/mpeg" length="971225" />
 <guid>https://www.peopleshistorypod.net/season1/teaser-1.mp3</guid>
 <itunes:duration>0:01:00</itunes:duration>
 <pubDate>Mon, 27 Aug 2018 00:37:00 EST</pubDate>
