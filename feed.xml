@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 <channel>
 <link>https://www.peopleshistorypod.net</link>
 <language>en-us</language>
@@ -22,10 +22,10 @@
 </itunes:category>
 <itunes:keywords>zinn, peoples, people, history, howard zinn</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
-<itunes:image href="https://www.peopleshistorypod.net/assets/php-icon.jpeg" />
+<itunes:image href="http://www.peopleshistorypod.net/assets/php-icon.jpeg" />
 <atom:link href="https://www.peopleshistorypod.net/feed.xml" rel="self" type="application/rss+xml" />
 
-<pubDate>Mon, 26 Aug 2018 00:00:00 EST</pubDate>
+<pubDate>Mon, 27 Aug 2018 00:00:00 EST</pubDate>
   
 <title>A People's History</title>
 <itunes:author>Jacobin</itunes:author>
