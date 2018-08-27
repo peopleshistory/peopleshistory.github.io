@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
+<channel>
+<link>https://www.peopleshistorypod.net</link>
+<language>en-us</language>
+<copyright>&#xA9;2018</copyright>
+<webMaster>contact@peopleshistorypod.net (Alex)</webMaster>
+<managingEditor>contact@peopleshistorypod.net (Conor)</managingEditor>
+
+<image>
+<url>https://www.peopleshistorypod.net/assets/php-icon.jpeg</url>
+<title>People's History icon</title>
+<link>https://www.peopleshistorypod.net</link>
+</image>
+
+<itunes:owner>
+<itunes:name>Conor Gillies</itunes:name>
+<itunes:email>contact@peopleshistorypod.net</itunes:email>
+</itunes:owner>
+<itunes:category text="Society &amp; Culture">
+<itunes:category text="History" />
+</itunes:category>
+<itunes:keywords>zinn, peoples, people, history, howard zinn</itunes:keywords>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="http://www.peopleshistorypod.net/assets/php-icon.jpeg" />
+<atom:link href="https://www.peopleshistorypod.net/feed.xml" rel="self" type="application/rss+xml" />
+
+<pubDate>Mon, 27 Aug 2018 00:00:00 EST</pubDate>
+  
+<title>A People's History</title>
+<itunes:author>Jacobin</itunes:author>
+<description>A People’s History is a documentary podcast about class struggle
+in the United States. Inspired by sections from Howard Zinn's landmark book, 
+each eight-episode season covers one local story, told from the viewpoint of 
+common people.</description>
+<itunes:summary>A People’s History is a documentary podcast about class struggle
+in the United States. Inspired by sections from Howard Zinn's landmark book, 
+each eight-episode season covers one local story, told from the viewpoint of 
+common people.</itunes:summary>
+<itunes:subtitle>A People’s History is a podcast about class struggle
+in the United States.</itunes:subtitle>
+<lastBuildDate>Thu, 02 Feb 2012 00:00:00 EST</lastBuildDate>
+
+<item>
+<title>Trailer</title>
+<description>A People's History comes this Fall.</description>
+<itunes:summary>A People's History comes this Fall.</itunes:summary>
+<itunes:subtitle>A People's Hitory comes this Fall..</itunes:subtitle>
+<itunesu:category itunesu:code="104108" />
+<enclosure url="https://www.peopleshistorypod.net/season1/teaser-1.mp3" type="audio/mpeg" length="1" />
+<guid>https://www.peopleshistorypod.net/season1/teaser-1.mp3</guid>
+<itunes:duration>0:01:00</itunes:duration>
+<pubDate>Mon, 27 Aug 2018 00:37:00 EST</pubDate>
+</item>
+</channel>
+</rss>
