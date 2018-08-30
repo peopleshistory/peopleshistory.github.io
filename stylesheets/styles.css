@@ -26,7 +26,7 @@ a {
 
 header {
   background-color: indianred;
-  background: linear-gradient(352deg, bisque, bisque calc(112px + 16vw), bisque calc(112px + 16vw), bisque calc(100% - (200px + 40vw)), indianred calc(100% - (200px + 40vw)), IndianRed);
+  background: linear-gradient(355deg, bisque, bisque calc(112px + 16vw), bisque calc(112px + 16vw), bisque calc(100% - (200px + 40vw)), indianred calc(100% - (200px + 40vw)), IndianRed);
 }
 
 .real-footer {
@@ -36,7 +36,7 @@ header {
 }
 
 body {
-  background-image: linear-gradient(352deg, indianred, indianred 475px, bisque 475px);
+  background-image: linear-gradient(355deg, indianred, indianred 540px, bisque 540px);
   background-color: bisque;
   /* background-color: indianred; */
   width: 100%;
@@ -268,7 +268,7 @@ footer {
     /* margin-top: 5rem;
     margin-bottom: 2rem; */
     font-size: calc(9px + 2vw);
-    text-align: justify;
+    text-align: center;
 }
 .subs li {
   display: inline-block;
