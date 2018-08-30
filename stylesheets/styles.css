@@ -36,6 +36,7 @@ header {
 }
 
 body {
+  background-image: linear-gradient(352deg, indianred, indianred 475px, bisque 475px);
   background-color: bisque;
   /* background-color: indianred; */
   width: 100%;
