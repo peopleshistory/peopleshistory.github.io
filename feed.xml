@@ -51,10 +51,10 @@
   
 <item>
     <title>Teaser</title>
-    <description>A People's History comes this Spring.</description>
+    <description>A People's History comes this Fall.</description>
     <dc:creator>People's History Podcast</dc:creator>
-    <itunes:summary>A People's History comes this Spring.</itunes:summary>
-    <itunes:subtitle>A People's Hitory comes this Spring.</itunes:subtitle>
+    <itunes:summary>A People's History comes this Fall.</itunes:summary>
+    <itunes:subtitle>A People's Hitory comes this Fall.</itunes:subtitle>
     <itunesu:category itunesu:code="104108" />
     <enclosure url="https://peopleshistorypod.net/season1/teaser-1.mp3" type="audio/mpeg" length="971225" />
     <guid>https://peopleshistorypod.net/season1/teaser-1.mp3</guid>
