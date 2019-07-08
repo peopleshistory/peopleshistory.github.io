@@ -260,7 +260,8 @@ ol {
 footer {
   /* font-size: calc(10px + 2vw); */
   text-align: center;
-  padding: 0.5em;
+  padding: 1em;
+  padding-top: 20px;
 }
 
 .subs {
