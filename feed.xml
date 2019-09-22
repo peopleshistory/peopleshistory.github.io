@@ -33,14 +33,15 @@
         <itunes:name>Conor Gillies</itunes:name>
         <itunes:email>contact@peopleshistorypod.net</itunes:email>
     </itunes:owner>
+    
     <itunes:author>Jacobin</itunes:author>
     <itunes:category text="Society &amp; Culture">
     <itunes:category text="History" />
     </itunes:category>
-    <itunes:keywords>zinn, peoples, people, history, howard zinn</itunes:keywords>
+    <itunes:keywords>peoples history, a people's history, zinn, people, history, howard zinn</itunes:keywords>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://peopleshistorypod.net/assets/php-icon.jpeg" />
-    <itunes:summary>A People’s History is a documentary podcast about class struggle in the United States. Inspired by sections from Howard Zinn's landmark book, each eight-episode season covers one local story, told from the viewpoint of common people. Produced by Jacobin with support from the Economic Hardship Reporting Project.</itunes:summary>
+    <itunes:summary>A People’s History is a documentary podcast about class struggle in the United States. Inspired by sections from Howard Zinn's landmark book, each season covers one local story, told from the viewpoint of common people. Produced by Jacobin with support from the Economic Hardship Reporting Project.</itunes:summary>
     <itunes:subtitle>A People’s History is a podcast about class struggle
     in the United States.</itunes:subtitle>
 
