@@ -107,6 +107,7 @@ body {
   color: grey;
 }
 
+#home:checked ~ .tabs #home-tab,
 #episodes:checked ~ .tabs #episodes-tab,
 #readings:checked ~ .tabs #readings-tab,
 #about:checked ~ .tabs #about-tab,
@@ -124,6 +125,7 @@ label:hover   {color:black; text-decoration:underline}
     display: none;
 }
 
+#home:checked ~ .panels #home-panel,
 #episodes:checked ~ .panels #episodes-panel,
 #readings:checked ~ .panels #readings-panel,
 #about:checked ~ .panels #about-panel,
