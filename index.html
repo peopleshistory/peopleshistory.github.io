@@ -32,16 +32,23 @@
     <!-- <div class="wrapper"><a href="#subs">Subscribe!</a></div> -->
     <div class="radio-tabs content">
 
-      <input class="state" type="radio" title="Episodes" name="panel-state" id="episodes" checked />
+      <input class="state" type="radio" title="Home" name="panel-state" id="Home" checked />
+      <input class="state" type="radio" title="Episodes" name="panel-state" id="Episodes" />
       <input class="state" type="radio" title="Readings" name="panel-state" id="readings" />
       <input class="state" type="radio" title="About" name="panel-state" id="about" />
       <input class="state" type="radio" title="Donate" name="panel-state" id="donate" />
 
       <ul class="tabs">
+        
+         <li id="home-tab" class="tab">
+          <label for="home" id="home-tab">
+            <h4>About</h4>
+          </label>
+        </li>
 
         <li id="episodes-tab" class="tab">
           <label for="episodes" id="episodes-tab">
-            <h4>Podcast</h4>
+            <h4>Episodes</h4>
           </label>
         </li>
 
@@ -53,7 +60,7 @@
 
         <li id="about-tab" class="tab">
           <label for="about" id="about-tab">
-            <h4>About</h4>
+            <h4>Team</h4>
           </label>
         </li>
 
