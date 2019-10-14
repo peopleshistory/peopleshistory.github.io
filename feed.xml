@@ -56,6 +56,7 @@
     <dc:creator>People's History Podcast</dc:creator>
     <itunes:summary>A People's History comes November 14.</itunes:summary>
     <itunes:subtitle>A People's Hitory comes November 14.</itunes:subtitle>
+    <itunes:episodeType>Trailer</itunes:episodeType>
     <itunesu:category itunesu:code="104108" />
     <enclosure url="https://peopleshistorypod.net/season1/trailer2.mp3" type="audio/mpeg" length="4579623" />
     <guid>https://peopleshistorypod.net/season1/trailer2.mp3</guid>
