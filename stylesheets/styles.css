@@ -68,6 +68,13 @@ body {
     height: 100px;
 }
 
+.title-img {
+  width: 575px;
+  max-width: 90%;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
 .main-img {
      width: 575px;
      max-width: 90%;
