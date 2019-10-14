@@ -64,7 +64,8 @@ body {
 }
 
 .funder {
-    height: 105px;
+    width: 575px;
+  max-width: 70%;
 }
 
 .title-img {
