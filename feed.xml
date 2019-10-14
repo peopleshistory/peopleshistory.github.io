@@ -45,22 +45,22 @@
     <itunes:subtitle>A People’s History is a podcast about class struggle
     in the United States.</itunes:subtitle>
 
-    <lastBuildDate>Mon, 08 July 2018 17:11:00 EST</lastBuildDate>
+    <lastBuildDate>Mon, 14 October 2019 10:37:00 EST</lastBuildDate>
     <!-- UPDATE ABOVE WITH EVERY UPDATE TO THE FEED -->
   
 <!-- SEASON ONE EPISODES - NEWEST ON TOP -->
   
 <item>
-    <title>Teaser</title>
-    <description>A People's History comes this Fall.</description>
+    <title>Trailer</title>
+    <description>A People's History comes November 14.</description>
     <dc:creator>People's History Podcast</dc:creator>
-    <itunes:summary>A People's History comes this Fall.</itunes:summary>
-    <itunes:subtitle>A People's Hitory comes this Fall.</itunes:subtitle>
+    <itunes:summary>A People's History comes November 14.</itunes:summary>
+    <itunes:subtitle>A People's Hitory comes November 14.</itunes:subtitle>
     <itunesu:category itunesu:code="104108" />
-    <enclosure url="https://peopleshistorypod.net/season1/teaser-1.mp3" type="audio/mpeg" length="971225" />
-    <guid>https://peopleshistorypod.net/season1/teaser-1.mp3</guid>
-    <itunes:duration>0:01:00</itunes:duration>
-    <pubDate>Mon, 08 July 2019 00:37:00 EST</pubDate>
+    <enclosure url="https://peopleshistorypod.net/season1/trailer2.mp3" type="audio/mpeg" length="4579623" />
+    <guid>https://peopleshistorypod.net/season1/trailer2.mp3</guid>
+    <itunes:duration>0:01:53</itunes:duration>
+    <pubDate>Mon, 14 October 2019 10:37:00 EST</pubDate>
   </item>
   
   </channel>
