@@ -32,7 +32,7 @@ header {
 .real-footer {
   background-color: indianred;
   background: linear-gradient(-193deg, bisque, bisque calc(112px + 16vw), bisque calc(112px + 16vw), bisque calc(100% - (200px + 40vw)), indianred calc(100% - (200px + 40vw)), IndianRed);
-  min-height: 28em;
+  min-height: 38em;
 }
 
 body {
