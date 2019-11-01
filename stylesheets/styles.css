@@ -256,15 +256,6 @@ hr {
     display: table;
 }
 
-figcaption {
-    display: block;
-    font-family: sans-serif;
-    /* font-size: calc(6px + 1.5vw); */
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
-}
-
 .description {
   /* font-size: 3rem; */
 }
