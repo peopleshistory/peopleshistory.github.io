@@ -1,2 +1,2 @@
-# peopleshistory.github.io
+# www.peopleshistorypod.net
 Podcast website
