@@ -186,14 +186,14 @@ mark {
 
 img {
     text-align: center;
-    display: block;
+    display: inline-block;
     margin: auto;
 }
 
 figure {
-  display: inline-block;
+  display: flex;
+  align-items: center;
   vertical-align: middle;
-  min-width: 150px;
   text-align: center;
   font-style: italic;
   font-size: smaller;
@@ -204,6 +204,7 @@ figure {
 
 figcaption {
     background-color: aqua;
+    vertical-align: middle;
 }
 
 hr {
