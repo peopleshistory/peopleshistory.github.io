@@ -190,6 +190,12 @@ img {
     margin: auto;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 figure {
   display: flex;
   align-items: center;
