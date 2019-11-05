@@ -63,10 +63,6 @@ body {
   /* padding: 0.5em; */
 }
 
-.tabby (
-  display: inline-block;
-}
-
 .funder {
   width: 200px;
 }
@@ -92,8 +88,6 @@ body {
 .radio-tabs .state {
     position: absolute;
     left: -10000px;
-    white-space:nowrap
-    display: inline-block
 }
 
 .tabs h3 {
