@@ -196,11 +196,10 @@ figure {
   font: sans-serif;
   margin: 0.5em;
   padding: 0.5em;
-  max-width: 460px;
 }
 
 figcaption {
-  max-width: 200px;
+  max-width: auto;
 }
 
 hr {
