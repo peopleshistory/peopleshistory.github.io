@@ -63,6 +63,10 @@ body {
   /* padding: 0.5em; */
 }
 
+.tabby (
+  display: inline-block;
+}
+
 .funder {
   width: 200px;
 }
