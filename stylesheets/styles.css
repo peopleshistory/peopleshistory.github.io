@@ -3,21 +3,21 @@ html {
 }
 
 @font-face {
-font-family: 'Padauk';
-src:   url('fonts/Padauk-Regular.woff2') format('woff2'),
-       url('fonts/Padauk-Regular.woff') format('woff'),
-       url('fonts/Padauk-Regular.ttf') format('truetype');
-font-weight: normal;
-font-style: normal;
+  font-family: "Padauk";
+  src: url("fonts/Padauk-Regular.woff2") format("woff2"),
+    url("fonts/Padauk-Regular.woff") format("woff"),
+    url("fonts/Padauk-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
 }
 
 @font-face {
-font-family: 'Padauk';
-src: url('fonts/Padauk-Bold.woff2') format('woff2'),
-     url('fonts/Padauk-Bold.woff') format('woff')
-     url('fonts/Padauk-Bold.ttf') format('truetype');
-font-weight: bold;
-font-style: normal;
+  font-family: "Padauk";
+  src: url("fonts/Padauk-Bold.woff2") format("woff2"),
+    url("fonts/Padauk-Bold.woff") format("woff") url("fonts/Padauk-Bold.ttf")
+      format("truetype");
+  font-weight: bold;
+  font-style: normal;
 }
 
 a {
@@ -26,17 +26,38 @@ a {
 
 header {
   background-color: indianred;
-  background: linear-gradient(355deg, bisque, bisque calc(112px + 16vw), bisque calc(112px + 16vw), bisque calc(100% - (200px + 40vw)), indianred calc(100% - (200px + 40vw)), IndianRed);
+  background: linear-gradient(
+    355deg,
+    bisque,
+    bisque calc(112px + 16vw),
+    bisque calc(112px + 16vw),
+    bisque calc(100% - (200px + 40vw)),
+    indianred calc(100% - (200px + 40vw)),
+    IndianRed
+  );
 }
 
 .real-footer {
   background-color: indianred;
-  background: linear-gradient(-193deg, bisque, bisque calc(112px + 16vw), bisque calc(112px + 16vw), bisque calc(100% - (200px + 40vw)), indianred calc(100% - (200px + 40vw)), IndianRed);
+  background: linear-gradient(
+    -193deg,
+    bisque,
+    bisque calc(112px + 16vw),
+    bisque calc(112px + 16vw),
+    bisque calc(100% - (200px + 40vw)),
+    indianred calc(100% - (200px + 40vw)),
+    IndianRed
+  );
   min-height: 50em;
 }
 
 body {
-  background-image: linear-gradient(355deg, indianred, indianred 515px, bisque 515px);
+  background-image: linear-gradient(
+    355deg,
+    indianred,
+    indianred 515px,
+    bisque 515px
+  );
   background-color: bisque;
   /* background-color: indianred; */
   width: 100%;
@@ -45,7 +66,8 @@ body {
   margin-left: auto;
   margin-right: auto;
   color: black;
-  font-family: "Padauk", Avantgarde, "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-family: "Padauk", Avantgarde, "Lucida Sans Unicode", "Lucida Grande",
+    sans-serif;
   line-height: 1.4;
 }
 
@@ -75,19 +97,19 @@ body {
 }
 
 .main-img {
-     width: 575px;
-     max-width: 90%;
+  width: 575px;
+  max-width: 90%;
 }
 
 .ep-img {
-     /* width: 650px;
+  /* width: 650px;
      max-width: 90%; */
-     width: 100%;
+  width: 100%;
 }
 
 .radio-tabs .state {
-    position: absolute;
-    left: -10000px;
+  position: absolute;
+  left: -10000px;
 }
 
 .tabs h3 {
@@ -97,15 +119,15 @@ body {
 }
 
 .tabs {
-    width: 100%;
-    margin-top: 5rem;
-    margin-bottom: 2rem;
-    text-align: justify;
+  width: 100%;
+  margin-top: 5rem;
+  margin-bottom: 2rem;
+  text-align: justify;
 }
 .tabs::after {
-    content: '';
-    display: inline-block;
-    width: 100%;
+  content: "";
+  display: inline-block;
+  width: 100%;
 }
 
 .tabs li {
@@ -118,17 +140,31 @@ body {
 #readings:checked ~ .tabs #readings-tab,
 #about:checked ~ .tabs #about-tab,
 #donate:checked ~ .tabs #donate-tab {
-    color: black;
-    text-decoration:underline;
+  color: black;
+  text-decoration: underline;
+  font-size: 1.4rem;
 }
 
-label:hover   {color:black; text-decoration:underline}
+.tab-label {
+  font-size: 1.6rem;
+}
+
+@media (min-width: 550px) {
+  .tab-label {
+    font-size: 2.4rem;
+  }
+}
+
+label:hover {
+  color: black;
+  text-decoration: underline;
+}
 
 .radio-tabs .panels {
-    padding: 0;
+  padding: 0;
 }
 .radio-tabs .panel {
-    display: none;
+  display: none;
 }
 
 #home:checked ~ .panels #home-panel,
@@ -136,7 +172,7 @@ label:hover   {color:black; text-decoration:underline}
 #readings:checked ~ .panels #readings-panel,
 #about:checked ~ .panels #about-panel,
 #donate:checked ~ .panels #donate-panel {
-    display: block;
+  display: block;
 }
 
 audio {
@@ -176,17 +212,17 @@ h5 {
 }
 
 mark {
-   background-color: black;
-   color: indianred;
-   font-kerning: none;
-   font-family: cursive;
-   font-size: 40%;
-   letter-spacing: 5px;
+  background-color: black;
+  color: indianred;
+  font-kerning: none;
+  font-family: cursive;
+  font-size: 40%;
+  letter-spacing: 5px;
 }
 
 img {
-    text-align: center;
-    margin: auto;
+  text-align: center;
+  margin: auto;
 }
 
 figure {
@@ -207,7 +243,7 @@ hr {
   border-top: 5px solid black;
   margin: 1em auto;
   width: 60%;
-  }
+}
 
 .person {
   /* margin-top: 4rem;
@@ -242,13 +278,13 @@ hr {
 }
 
 .clearfix {
-    overflow: auto;
+  overflow: auto;
 }
 
 .clearfix::after {
-    content: "";
-    clear: both;
-    display: table;
+  content: "";
+  clear: both;
+  display: table;
 }
 
 .description {
@@ -256,16 +292,16 @@ hr {
 }
 
 ul {
-    /* font-family: sans-serif; */
-    /* text-align:left; */
-    list-style: none;
-    /* list-style-type: square; */
-    /* font-size:calc(10px + 2vw); */
+  /* font-family: sans-serif; */
+  /* text-align:left; */
+  list-style: none;
+  /* list-style-type: square; */
+  /* font-size:calc(10px + 2vw); */
 }
 
 ol {
-    font-family: sans-serif;
-    /* font-size:calc(10px + 2vw); */
+  font-family: sans-serif;
+  /* font-size:calc(10px + 2vw); */
 }
 
 footer {
@@ -276,19 +312,19 @@ footer {
 }
 
 .subs {
-    width: 100%;
-    /* margin-top: 5rem;
+  width: 100%;
+  /* margin-top: 5rem;
     margin-bottom: 2rem; */
-    font-size: calc(9px + 2vw);
-    text-align: center;
+  font-size: calc(9px + 2vw);
+  text-align: center;
 }
 .subs li {
   display: inline-block;
 }
 .subs::after {
-    content: '';
-    display: inline-block;
-    width: 100%;
+  content: "";
+  display: inline-block;
+  width: 100%;
 }
 
 /* .subs {
@@ -304,8 +340,28 @@ footer {
   font-style: italic;
 }
 
-a:link    {color:blue; background-color:transparent; text-decoration:none}
-a:visited {color:blue; background-color:transparent; text-decoration:none}
-a:hover   {color:blue; background-color:yellow; text-decoration:underline}
-a:active  {color:blue; background-color:transparent; text-decoration:underline}
-a:focus   {color:blue; background-color:yellow; text-decoration:underline}
+a:link {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: blue;
+  background-color: yellow;
+  text-decoration: underline;
+}
+a:active {
+  color: blue;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:focus {
+  color: blue;
+  background-color: yellow;
+  text-decoration: underline;
+}

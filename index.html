@@ -1,180 +1,303 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
-  
-<head>
-  <title>A People's History</title>
-  
-  <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="A seasonal podcast about class struggle in the United States. From Jacobin and EHRP.">
-  <meta name="keywords" content="peoples history,a peoples history,podcast,people,peoples,radio,program,housing,ramirez,jacobin,EHRP,socialism,housing">
-  <meta name="author" content="Jacobin">
-  <meta property="og:image" content="https://peopleshistorypod.net/assets/twitterimage.png">
-
-  <link type="application/rss+xml" rel="alternate"
-      title="A People's History" href="https://peopleshistorypod.net/feed.xml"/>
-  
-  <link rel="stylesheet" href="stylesheets/normalize.css">
-  <link rel="stylesheet" href="stylesheets/skeleton.css">
-  <link rel="stylesheet" href="stylesheets/styles.css">
-
-  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-  
-</head>
-
-<body>
-
-  <header><br/>
-    <img class="main-img" src="assets/logo2letters.png" alt="logo"><br/>
-    <img class="main-img" src="assets/lawrence.png"
-    alt="lawrence-painting">
-  </header>
-
-  <div class="container">
-
-    <!-- <div class="wrapper"><a href="#subs">Subscribe!</a></div> -->
-    <div class="radio-tabs content">
-
-      <input class="state" type="radio" title="home" name="panel-state" id="home" checked/>
-      <input class="state" type="radio" title="Episodes" name="panel-state" id="episodes" />
-      <input class="state" type="radio" title="Readings" name="panel-state" id="readings" />
-      <input class="state" type="radio" title="about" name="panel-state" id="about" />
-
-      <ul class="tabs">
-        
-         <li id="home-tab" class="tab">
-          <label for="home" id="home-tab">
-            <h4>Home</h4>
-          </label>
-        </li>
-
-        <li id="episodes-tab" class="tab">
-          <label for="episodes" id="episodes-tab">
-            <h4>Season One</h4>
-          </label>
-        </li>
-
-        <li id="readings-tab" class="tab">
-          <label for="readings" id="readings-tab">
-            <h4>Anthology</h4>
-          </label>
-        </li>
-
-        <li id="about-tab" class="tab">
-          <label for="about" id="about-tab">
-            <h4>About</h4>
-          </label>
-        </li>
-       
-      </ul>
-
-    <div class="panels">
-      
-       <!-- HOME -->
-      
-       <div id="home-panel" class="panel">
-         <h3>A People’s History is a new documentary podcast about struggles
-           in the United States. Each six-episode season covers one local story,
-           told from the viewpoint of working-class people.</h3><br/><br/>
-         
-         <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695252269&color=%23f10f0f&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><br/>
-        
-         <h3 style="color:red;">Season one, episode one airs this November</h3>
+  <head>
+    <title>A People's History</title>
+    <meta
+      charset="utf-8"
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+    <meta
+      name="description"
+      content="A seasonal podcast about class struggle in the United States. From Jacobin and EHRP."
+    />
+    <meta
+      name="keywords"
+      content="peoples history,a peoples history,podcast,people,peoples,radio,program,housing,ramirez,jacobin,EHRP,socialism,housing"
+    />
+    <meta name="author" content="Jacobin" />
+    <meta
+      property="og:image"
+      content="https://peopleshistorypod.net/assets/twitterimage.png"
+    />
+    <!-- Twitter metas -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="A People's History" />
+    <meta
+      name="twitter:description"
+      content="A new podcast from Jacobin magazine. Coming November 14th."
+    />
+    <meta
+      name="twitter:image"
+      content="https://peopleshistorypod.net/assets/twitterimage.png"
+    />
+    <link
+      type="application/rss+xml"
+      rel="alternate"
+      title="A People's History"
+      href="https://peopleshistorypod.net/feed.xml"
+    />
+    <link rel="stylesheet" href="stylesheets/normalize.css" />
+    <link rel="stylesheet" href="stylesheets/skeleton.css" />
+    <link rel="stylesheet" href="stylesheets/styles.css" />
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+  </head>
+  <body>
+    <header>
+      <br />
+      <img class="main-img" src="assets/logo2letters.png" alt="logo" /><br />
+      <img class="main-img" src="assets/lawrence.png" alt="lawrence-painting" />
+    </header>
+    <div class="container">
+      <!-- <div class="wrapper"><a href="#subs">Subscribe!</a></div> -->
+      <div class="radio-tabs content">
+        <input
+          class="state"
+          type="radio"
+          title="home"
+          name="panel-state"
+          id="home"
+          checked
+        />
+        <input
+          class="state"
+          type="radio"
+          title="Episodes"
+          name="panel-state"
+          id="episodes"
+        />
+        <input
+          class="state"
+          type="radio"
+          title="Readings"
+          name="panel-state"
+          id="readings"
+        />
+        <input
+          class="state"
+          type="radio"
+          title="about"
+          name="panel-state"
+          id="about"
+        />
+        <ul class="tabs">
+          <li id="home-tab" class="tab">
+            <label for="home" id="home-tab">
+              <h4 class="tab-label">Home</h4>
+            </label>
+          </li>
+          <li id="episodes-tab" class="tab">
+            <label for="episodes" id="episodes-tab">
+              <h4 class="tab-label">Season One</h4>
+            </label>
+          </li>
+          <li id="readings-tab" class="tab">
+            <label for="readings" id="readings-tab">
+              <h4 class="tab-label">Anthology</h4>
+            </label>
+          </li>
+          <li id="about-tab" class="tab">
+            <label for="about" id="about-tab">
+              <h4 class="tab-label">About</h4>
+            </label>
+          </li>
+        </ul>
+        <div class="panels">
+          <!-- HOME -->
+          <div id="home-panel" class="panel">
+            <h3>
+              A People’s History is a new documentary podcast about struggles in
+              the United States. Each six-episode season covers one local story,
+              told from the viewpoint of working-class people.
+            </h3>
+            <br /><br />
+            <iframe
+              width="100%"
+              height="166"
+              scrolling="no"
+              frameborder="no"
+              allow="autoplay"
+              src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695252269&color=%23f10f0f&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
+            ></iframe
+            ><br />
+            <h3 style="color:red;">
+              Season one, episode one airs this November
+            </h3>
+          </div>
+          <!-- EPISODES -->
+          <div id="episodes-panel" class="panel">
+            <!-- Season One -->
+            <h1>Season One: The Point</h1>
+            <hr />
+            <h3>Rebellion and Resistance in Boston Public Housing</h3>
+            <br />
+            <h4>
+              Coming November 14, A People’s History is a documentary podcast
+              series from <i>Jacobin</i>, with support from the Economic
+              Hardship Reporting Project.<br /><br />Loosely inspired by
+              <a
+                href="https://www.harpercollins.com/9780062397348/a-peoples-history-of-the-united-states"
+                target="_blank"
+                >Howard Zinn’s A People’s History of the United States</a
+              >, the podcast focuses on several important events in
+              working-class history. Our first season traces a social history of
+              Boston from the urban rebellions of the 1960s, through busing in
+              the 70s, into the Clinton era.<br /><br />
+              We investigate these events from the lens of one community:
+              Columbia Point, the largest public housing project in New England.
+              Built on an isolated landfill site next to the Boston city dump,
+              it was the site of major organizing, from welfare rights to a Free
+              Breakfast for Children program. It was also the first public
+              housing project to be sold off and redeveloped as private
+              "mixed-income" development (and was a model for the federal policy
+              "HOPE VI").<br /><br />
+              This is the untold story of the tenant struggles in and around
+              Boston public housing. It’s a story about regular people—mainly
+              black mothers—standing up to the mayor’s office, organizing
+              sit-ins to get the services they were owed, fighting evictions,
+              and creating their own power.
+            </h4>
+            <br /><br />
+            <h3 style="color:red;">
+              Season one, episode one coming November 14
+            </h3>
+            <!-- Episode MODULES -->
+            <!--  <audio controls>
+              <source src="s1e1.mp3" type="audio/mpeg">
+              </audio>
+              <figure>
+              <img class="ep-img" src="assets/ep1-image2.jpg" alt="Tenants form a blockade on Mount Vernon Street" class="center">
+              <figcaption>At the new public housing project Columbia Point, mothers organize to close a city dump. (Coming soon...)
+              </figcaption>
+              </figure> -->
+            <!-- Don't forget to update RSS  too! -->
+          </div>
+          <!-- READINGS -->
+          <div id="readings-panel" class="panel">
+            <h1>Reading Series</h1>
+            <hr />
+            <h3>A People's Anthology</h3>
+            <br />
+            <h4>
+              In collaboration with <i>Boston Review</i>, we’re creating a
+              series of texts and speeches to supplement the main podcast called
+              <b>A People’s Anthology</b>. Our first season brings together key
+              primary sources relating to urban rebellions, from Claudia Jones
+              to the Combahee River Collective.<br />
+              <br />
+              <figure>
+                <img
+                  src="assets/redbook-icon2.png"
+                  alt="Red book"
+                  height="150"
+                  width="150"
+                  class="center"
+                />
+                <figcaption>
+                  Frida Kahlo, detail from "Marxism will give health to the
+                  sick," 1954.
+                </figcaption>
+              </figure>
+              <br />
+              We don’t believe in eternal paywalls, so A People’s Anthology will
+              become publicly available some time next year — but for now only
+              our Patreon supporters and
+              <a
+                href="https://store.bostonreview.net/memberships"
+                target="blank"
+                ><i>Boston Review</i> members</a
+              >
+              will get access to this pod!
+            </h4>
+            <!-- Episode MODULES -->
+          </div>
+          <!-- TEAM -->
+          <div id="about-panel" class="panel">
+            <h1>Team</h1>
+            <hr />
+            <h4>
+              Alejandro Ramirez is an associate editor of Nashville Scene, and
+              grew up in Lawrence, Massachusetts. He is the former editor of
+              Spare Change News in Boston. Conor Gillies grew up in Maine and
+              studied history at Boston University. He's a producer for Radio
+              Open Source.
+            </h4>
+            <h4>
+              Co-produced by Alison Bruzek, Rehanna Fernandez Nuñez, Rosie
+              Gillies, and Qainat Kahn. Editing help from Ben Shapiro, David
+              Wallis, and Alissa Quart. Theme music by Marisa Anderson, original
+              score by Liz Harris and Ilyas Ahmed. Major production help from Ed
+              Paget, Patrick King, Cait Gillies, and Alex Silva.
+            </h4>
+            <h4>
+              Loosely based on Howard Zinn’s
+              <a
+                href="https://www.harpercollins.com/9780062397348/a-peoples-history-of-the-united-states"
+                target="_blank"
+                ><i>A People’s History of the United States</i></a
+              >.
+            </h4>
+          </div>
+          <footer>
+            <br />
+            <div class="clearfix">
+              <h5 style="text-align:center;margin-top:100px">
+                Header: detail from Jacob Lawrence, The
+                <a
+                  href="https://lawrencemigration.phillipscollection.org/the-migration-series"
+                  target="_blank"
+                  >Migration series</a
+                >
+                Panel 51, "African Americans seeking to find better housing
+                attempted to move into new areas. This resulted in the bombing
+                of their new homes." 1940–41.
+              </h5>
+              <h4 style="text-align:center;margin-top:100px">
+                A People's History is produced by <i>Jacobin</i> with support
+                from the Economic Hardship Reporting Project and listeners like
+                you.
+                <a
+                  href="https://www.patreon.com/peopleshistorypod"
+                  target="_blank"
+                  ><font color="#000000"
+                    ><u>Make a donation via Patreon today.</u></font
+                  ></a
+                >
+              </h4>
+              <img
+                class="funder"
+                src="https://peopleshistorypod.net/assets/finalogos.png"
+                alt="funding logos"
+              />
+            </div>
+            <h4 id="subs">
+              <ul class="subs">
+                <li>
+                  <a
+                    href="https://peopleshistorypod.net/feed.xml"
+                    target="_blank"
+                    >RSS</a
+                  >
+                </li>
+                <li>
+                  <a
+                    href="https://itunes.apple.com/us/podcast/a-peoples-history/id1434260927"
+                    target="_blank"
+                    >Apple</a
+                  >
+                </li>
+                <li>
+                  <a
+                    href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9wZW9wbGVzaGlzdG9yeXBvZC5uZXQvZmVlZC54bWw%3D"
+                    target="_blank"
+                    >Google</a
+                  >
+                </li>
+              </ul>
+            </h4>
+          </footer>
+        </div>
       </div>
-
-      <!-- EPISODES -->
-
-      <div id="episodes-panel" class="panel">
-
-      <!-- Season One -->
-        
-       <h1>Season One: The Point</h1><hr/><h3>Rebellion and Resistance in Boston Public Housing</h3><br/>
-
-        <h4>Coming November 14, A People’s History is a documentary podcast series from <i>Jacobin</i>, with support from the Economic Hardship Reporting Project.<br/><br/>Loosely inspired by <a href="https://www.harpercollins.com/9780062397348/a-peoples-history-of-the-united-states"
-          target="_blank">Howard Zinn’s A People’s History of the United States</a>, the podcast focuses on several important events in working-class history. Our first season traces a social history of Boston from the urban rebellions of the 1960s, through busing in the 70s, into the Clinton era.<br/><br/>
-
-We investigate these events from the lens of one community: Columbia Point, the largest public housing project in New England. Built on an isolated landfill site next to the Boston city dump, it was the site of major organizing, from welfare rights to a Free Breakfast for Children program. It was also the first public housing project to be sold off and redeveloped as private "mixed-income" development (and was a model for the federal policy "HOPE VI").<br/><br/>
-
-This is the untold story of the tenant struggles in and around Boston public housing. It’s a story about regular people—mainly black mothers—standing up to the mayor’s office, organizing sit-ins to get the services they were owed, fighting evictions, and creating their own power. </h4><br/><br/>    <h3 style="color:red;">Season one, episode one coming November 14</h3>
-      
-      <!-- Episode MODULES -->
-      
-      <!--  <audio controls>
-               <source src="s1e1.mp3" type="audio/mpeg">
-             </audio> 
-          <figure>
-             <img class="ep-img" src="assets/ep1-image2.jpg" alt="Tenants form a blockade on Mount Vernon Street" class="center">
-             <figcaption>At the new public housing project Columbia Point, mothers organize to close a city dump. (Coming soon...)
-             </figcaption>
-        </figure> -->
-        
-        
-       <!-- Don't forget to update RSS  too! -->  
-      </div>
-      
-      
-         
-      <!-- READINGS -->
-
-      <div id="readings-panel" class="panel"><h1>Reading Series</h1><hr/><h3>A People's Anthology</h3><br/>
-        <h4>In collaboration with <i>Boston Review</i>, we’re creating a series of texts and speeches to supplement the main podcast called <b>A People’s Anthology</b>. Our first season brings together key primary sources relating to urban rebellions, from Claudia Jones to the Combahee River Collective.<br/> 
-   <br/>
-        <figure>
-          <img src="assets/redbook-icon2.png" alt="Red book" height="150" width="150" class="center">
-          <figcaption>Frida Kahlo, detail from "Marxism will give health to the sick," 1954.</figcaption>
-        </figure><br/>
-          We don’t believe in eternal paywalls, so A People’s Anthology will become publicly available some time next year — but for now only our Patreon supporters and <a href="https://store.bostonreview.net/memberships" target="blank"><i>Boston Review</i> members</a> will get access to this pod! </h4>
-        
-        <!-- Episode MODULES -->
-  
-        
-             
-      </div>    
-      
-      <!-- TEAM -->
-
-      <div id="about-panel" class="panel">
-      <h1>Team</h1>
-        <hr/>
-     
-
-        <h4>Alejandro Ramirez is an associate editor of Nashville Scene, and grew up in Lawrence,
-          Massachusetts. He is the former editor of Spare Change News in Boston. Conor Gillies grew up in
-          Maine and studied history at Boston University. He's a producer for Radio Open Source.</h4>
-
-        <h4>
-          Co-produced by Alison Bruzek, Rehanna Fernandez Nuñez, Rosie Gillies, and Qainat Kahn. Editing help from Ben Shapiro, David Wallis, and Alissa Quart. Theme music by Marisa Anderson,
-          original score by Liz Harris and Ilyas Ahmed. Major production help from Ed Paget, Patrick King, Cait Gillies, and Alex Silva.
-        </h4>
-      
-        <h4>Loosely based on Howard Zinn’s <a href="https://www.harpercollins.com/9780062397348/a-peoples-history-of-the-united-states" target="_blank"><i>A People’s History of the United States</i></a>.
-        </h4>
-      </div>
-
-  <footer>
-    <br>
-    <div class="clearfix"><h5 style="text-align:center;margin-top:100px">
-          Header: detail from Jacob Lawrence, The <a href="https://lawrencemigration.phillipscollection.org/the-migration-series" target="_blank">Migration series</a> Panel 51, "African Americans seeking to find better housing attempted to move into new areas. This resulted in the bombing of their new homes." 1940–41.
-        </h5> 
-       <h4 style="text-align:center;margin-top:100px">A People's History is produced by <i>Jacobin</i> with support from the Economic Hardship Reporting Project and listeners like you.  <a href="https://www.patreon.com/peopleshistorypod" target="_blank"><font color="#000000"><u>Make a donation via Patreon today.</u></font></a></h4>
-      <img class="funder" src="https://peopleshistorypod.net/assets/finalogos.png"
-      alt="funding logos">
     </div>
-
-    <h4 id="subs">
-      <ul class="subs">
-      <li> <a href="https://peopleshistorypod.net/feed.xml" target="_blank">RSS</a> </li>
-      <li> <a href="https://itunes.apple.com/us/podcast/a-peoples-history/id1434260927" target="_blank">Apple</a> </li>
-      <li> <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9wZW9wbGVzaGlzdG9yeXBvZC5uZXQvZmVlZC54bWw%3D" target="_blank">Google</a></li>
-      </ul>
-    </h4>
-  </footer>
-  </div>
-
-</body>
-    
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="A People's History">
-<meta name="twitter:description" content="A new podcast from Jacobin magazine. Coming November 14th.">
-<meta name="twitter:image" content="https://peopleshistorypod.net/assets/twitterimage.png">
-
+  </body>
 </html>
