@@ -24,7 +24,7 @@
     <managingEditor>contact@peopleshistorypod.net (Conor)</managingEditor>
   
     <image>
-        <url>https://peopleshistorypod.net/assets/seenarss2.jpg</url>
+        <url>https://peopleshistorypod.net/assets/rssseenafinal.jpg</url>
         <title>People's History</title>
         <link>https://peopleshistorypod.net</link>
     </image>
@@ -40,7 +40,7 @@
     </itunes:category>
     <itunes:keywords>peoples history, a people's history, zinn, people, history, howard zinn</itunes:keywords>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://peopleshistorypod.net/assets/seenarss2.jpg" />
+    <itunes:image href="https://peopleshistorypod.net/assets/rssseenafinal.jpg" />
     <itunes:summary>A People’s History is a documentary podcast about class struggle in the United States. Inspired by sections from Howard Zinn's landmark book, each season covers one local story, told from the viewpoint of common people. Produced by Jacobin with support from the Economic Hardship Reporting Project.</itunes:summary>
     <itunes:subtitle>A People’s History is a podcast about class struggle
     in the United States.</itunes:subtitle>
@@ -54,8 +54,8 @@
     <title>Trailer</title>
     <description>A People's History comes November 14.</description>
     <dc:creator>People's History Podcast</dc:creator>
-    <itunes:summary>A People's History comes November 14.</itunes:summary>
-    <itunes:subtitle>A People's Hitory comes November 14.</itunes:subtitle>
+    <itunes:summary>A People's History comes November 19.</itunes:summary>
+    <itunes:subtitle>A People's Hitory comes November 19.</itunes:subtitle>
     <itunes:episodeType>Trailer</itunes:episodeType>
     <itunesu:category itunesu:code="104108" />
     <enclosure url="https://peopleshistorypod.net/season1/trailer2.mp3" type="audio/mpeg" length="4579623" />
