@@ -14,10 +14,10 @@
 
 <!-- CHANNEL METADATA -->
 <channel>
-    <title>A People's History</title>
+    <title>People's History Pod</title>
     <atom:link href="https://peopleshistorypod.net/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://peopleshistorypod.net</link>
-    <description>A People’s History is a documentary podcast about class struggle in the United States. Inspired by sections from Howard Zinn's landmark book, each eight-episode season covers one local story, told from the viewpoint of common people. Produced by Jacobin with support from the Economic Hardship Reporting Project.</description>
+    <description>A documentary series about struggles in the United States. Each six-episode season covers one local story, told from the viewpoint of working-class people. Produced by Jacobin with support from the Economic Hardship Reporting Project.</description>
     <language>en-us</language>
     <copyright>&#xA9;2019</copyright>
     <webMaster>contact@peopleshistorypod.net (Alex)</webMaster>
@@ -41,27 +41,26 @@
     <itunes:keywords>peoples history, a people's history, zinn, people, history, howard zinn</itunes:keywords>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://peopleshistorypod.net/assets/rssseenafinal.jpg" />
-    <itunes:summary>A People’s History is a documentary podcast about class struggle in the United States. Inspired by sections from Howard Zinn's landmark book, each season covers one local story, told from the viewpoint of common people. Produced by Jacobin with support from the Economic Hardship Reporting Project.</itunes:summary>
-    <itunes:subtitle>A People’s History is a podcast about class struggle
-    in the United States.</itunes:subtitle>
+    <itunes:summary>A documentary series about struggles in the United States. Each six-episode season covers one local story, told from the viewpoint of working-class people. Produced by Jacobin with support from the Economic Hardship Reporting Project.</itunes:summary>
+    <itunes:subtitle>A podcast about class struggle in the United States.</itunes:subtitle>
 
-    <lastBuildDate>Mon, 14 October 2019 10:37:00 EST</lastBuildDate>
+    <lastBuildDate>Thu, 14 November 2019 23:59:00 EST</lastBuildDate>
     <!-- UPDATE ABOVE WITH EVERY UPDATE TO THE FEED -->
   
 <!-- SEASON ONE EPISODES - NEWEST ON TOP -->
   
 <item>
     <title>Trailer</title>
-    <description>A People's History comes November 14.</description>
+    <description>Episode one comes November 19.</description>
     <dc:creator>People's History Podcast</dc:creator>
-    <itunes:summary>A People's History comes November 19.</itunes:summary>
-    <itunes:subtitle>A People's Hitory comes November 19.</itunes:subtitle>
+    <itunes:summary>Episode one comes November 19.</itunes:summary>
+    <itunes:subtitle>Episode one comes November 19.</itunes:subtitle>
     <itunes:episodeType>Trailer</itunes:episodeType>
     <itunesu:category itunesu:code="104108" />
-    <enclosure url="https://peopleshistorypod.net/season1/trailer2.mp3" type="audio/mpeg" length="4579623" />
+    <enclosure url="https://peopleshistorypod.net/season1/trailer2.mp3" type="audio/mpeg" length="4333027" />
     <guid>https://peopleshistorypod.net/season1/trailer2.mp3</guid>
-    <itunes:duration>0:01:53</itunes:duration>
-    <pubDate>Mon, 14 October 2019 10:37:00 EST</pubDate>
+    <itunes:duration>0:01:46</itunes:duration>
+    <pubDate>Thu, 14 November 2019 23:59:00 EST</pubDate>
   </item>
   
   </channel>
