@@ -14,7 +14,7 @@
 
 <!-- CHANNEL METADATA -->
 <channel>
-    <title>People's History Pod</title>
+    <title>People's History Podcast</title>
     <atom:link href="https://peopleshistorypod.net/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://peopleshistorypod.net</link>
     <description>A documentary series about struggles in the United States. Each six-episode season covers one local story, told from the viewpoint of working-class people. Produced by Jacobin with support from the Economic Hardship Reporting Project.</description>
