@@ -44,10 +44,28 @@
     <itunes:summary>A documentary series about struggles in the United States. Each six-episode season covers one local story, told from the viewpoint of working-class people. Produced by Jacobin with support from the Economic Hardship Reporting Project.</itunes:summary>
     <itunes:subtitle>A podcast about class struggle in the United States.</itunes:subtitle>
 
-    <lastBuildDate>Thu, 14 November 2019 23:59:00 EST</lastBuildDate>
+    <lastBuildDate>Tue, 19 November 2019 11:00:00 EST</lastBuildDate>
     <!-- UPDATE ABOVE WITH EVERY UPDATE TO THE FEED -->
   
 <!-- SEASON ONE EPISODES - NEWEST ON TOP -->
+    
+    <item>
+    <title>Placement</title>
+    <description>From Jacobin magazine, comes season one of the People's History Podcast "The Point: Rebellion and Resistance in Boston Public Housing." In episode one, mothers at Columbia Point, a new public housing project, organize to try and close the city dump.</description>
+    <dc:creator>People's History Podcast</dc:creator>
+    <itunes:summary>Mothers at Columbia Point, a new public housing project in Boston, organize to try and close the city dump.</itunes:summary>
+    <itunes:subtitle>Mothers at Columbia Point, a new public housing project in Boston, organize to try and close the city dump.</itunes:subtitle>
+        <itunes:type>Serial</itunes:type>
+    <itunes:episodeType>Full</itunes:episodeType>
+        <itunes:episode>1</itunes:episode>
+        <itunes:season>1</itunes:season>
+    <itunesu:category itunesu:code="104108" />
+    <enclosure url="https://ia601402.us.archive.org/0/items/PHPs1e1/php-s1e1.mp3" type="audio/mpeg" length="111481043" />
+    <guid>https://ia601402.us.archive.org/0/items/PHPs1e1/php-s1e1.mp3</guid>
+    <itunes:duration>0:46:25</itunes:duration>
+    <pubDate>Tue, 19 November 2019 11:00:00 EST</pubDate>
+  </item>
+  
   
 <item>
     <title>Trailer</title>
