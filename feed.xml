@@ -44,14 +44,32 @@
     <itunes:summary>A documentary series about struggles in the United States. Each six-episode season covers one local story, told from the viewpoint of working-class people. Produced by Jacobin with support from the Economic Hardship Reporting Project.</itunes:summary>
     <itunes:subtitle>A podcast about class struggle in the United States.</itunes:subtitle>
 
-    <lastBuildDate>Tue, 26 November 2019 11:20:00 EST</lastBuildDate>
+    <lastBuildDate>Tue, 3 December 2019 11:00:00 EST</lastBuildDate>
     <!-- UPDATE ABOVE WITH EVERY UPDATE TO THE FEED -->
   
 <!-- SEASON ONE EPISODES - NEWEST ON TOP -->
     
+     
+     <item>
+    <title>3. Rent strike</title>
+    <description>From Jacobin magazine, comes season one of the People's History Podcast "The Point: Rebellion and Resistance in Boston Public Housing." In episode three, tenants take their growing dissatisfaction and aim it at their landlord, the Boston Housing Authority</description>
+    <dc:creator>People's History Podcast</dc:creator>
+    <itunes:summary>Tenants take their growing dissatisfaction and aim it at their landlord, the Boston Housing Authority.</itunes:summary>
+    <itunes:subtitle>Tenants take their growing dissatisfaction and aim it at their landlord, the Boston Housing Authority</itunes:subtitle>
+        <itunes:type>Serial</itunes:type>
+    <itunes:episodeType>Full</itunes:episodeType>
+        <itunes:episode>3</itunes:episode>
+        <itunes:season>1</itunes:season>
+    <itunesu:category itunesu:code="104108" />
+    <enclosure url="https://ia601506.us.archive.org/5/items/phps1e3/s1e3.mp3" type="audio/mpeg" length="122624880" />
+    <guid>https://ia601506.us.archive.org/5/items/phps1e3/s1e3.mp3</guid>
+    <itunes:duration>0:51:04</itunes:duration>
+    <pubDate>Tue, 3 December 2019 11:00:00 EST</pubDate>
+  </item>
+    
      <item>
     <title>2. Grove Hall</title>
-    <description>From Jacobin magazine, comes season one of the People's History Podcast "The Point: Rebellion and Resistance in Boston Public Housing." In episode one, mothers at Columbia Point, a new public housing project, organize to try and close the city dump.</description>
+    <description>From Jacobin magazine, comes season one of the People's History Podcast "The Point: Rebellion and Resistance in Boston Public Housing." In episode two, welfare rights advocates in Boston public housing use militant tactics to get services they are owed.</description>
     <dc:creator>People's History Podcast</dc:creator>
     <itunes:summary>As urban rebellions arise in cities, welfare rights advocates in Boston public housing use militant tactics to get services they are owed.</itunes:summary>
     <itunes:subtitle>As urban rebellions arise in cities, welfare rights advocates in Boston public housing use militant tactics to get services they are owed.</itunes:subtitle>
