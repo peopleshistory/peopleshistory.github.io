@@ -7,8 +7,6 @@ const show = id => {
     id = targets[0];
   }
 
-  console.log("tartg", targets);
-
   // Show tab if selected or remove selection if not
   tabs.forEach(tab => {
     if (tab.hash === id) {
