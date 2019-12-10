@@ -52,60 +52,31 @@
     <div class="container">
       <!-- <div class="wrapper"><a href="#subs">Subscribe!</a></div> -->
       <div class="radio-tabs content">
-        <input
-          class="state"
-          type="radio"
-          title="home"
-          name="panel-state"
-          id="home"
-          checked
-        />
-        <input
-          class="state"
-          type="radio"
-          title="Episodes"
-          name="panel-state"
-          id="episodes"
-        />
-        <input
-          class="state"
-          type="radio"
-          title="Readings"
-          name="panel-state"
-          id="readings"
-        />
-        <input
-          class="state"
-          type="radio"
-          title="about"
-          name="panel-state"
-          id="about"
-        />
         <ul class="tabs">
-          <li id="home-tab" class="tab">
-            <label for="home" id="home-tab">
-              <h4 class="tab-label">Home</h4>
-            </label>
+          <li>
+            <a href="#home" class="tab">
+              Home
+            </a>
           </li>
-          <li id="episodes-tab" class="tab">
-            <label for="episodes" id="episodes-tab">
-              <h4 class="tab-label">Season One</h4>
-            </label>
+          <li>
+            <a href="#season-one" class="tab">
+              Season One
+            </a>
           </li>
-          <li id="readings-tab" class="tab">
-            <label for="readings" id="readings-tab">
-              <h4 class="tab-label">Anthology</h4>
-            </label>
+          <li>
+            <a href="#readings" class="tab">
+              Anthology
+            </a>
           </li>
-          <li id="about-tab" class="tab">
-            <label for="about" id="about-tab">
-              <h4 class="tab-label">About</h4>
-            </label>
+          <li>
+            <a href="#about" class="tab">
+              About
+            </a>
           </li>
         </ul>
         <div class="panels">
           <!-- HOME -->
-          <div id="home-panel" class="panel">
+          <div id="home" class="panel">
             <h3>
               From <i>Jacobin</i> magazine, a new audio documentary about struggles
               in the United States. Each six-episode season covers one local story,
@@ -121,10 +92,10 @@
               src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695252269&color=%23f10f0f&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
             ></iframe
             ><br />
-           
+
           </div>
           <!-- EPISODES -->
-          <div id="episodes-panel" class="panel">
+          <div id="season-one" class="panel">
             <!-- Season One -->
             <h1>The Point</h1>
             <hr />
@@ -132,7 +103,7 @@
             <br />
 
             <!-- Episode MODULES -->
-            
+
             <h3>Episode One, "Placement"</h3>
             <audio controls>
               <source src="https://media.blubrry.com/jacobin/content.blubrry.com/jacobin/php-s1e1.mp3" type="audio/mpeg">
@@ -146,7 +117,7 @@
                 the city dump. Meanwhile, a black freedom movement emerges across Northern cities.
                 [<a href="https://medium.com/@peopleshistory/episode-one-placement-77ba3f87a2c9">transcript</a> |
                 <a href="https://media.blubrry.com/jacobin/content.blubrry.com/jacobin/php-s1e1.mp3">mp3</a>]</h4><br/><br/>
-            
+
              <h3>Episode Two, "Grove Hall"</h3>
             <audio controls>
               <source src="https://media.blubrry.com/jacobin/content.blubrry.com/jacobin/php-s1e2.mp3" type="audio/mpeg">
@@ -158,7 +129,7 @@
               <h4>As urban rebellions arise in cities, welfare rights advocates in Boston public housing use militant tactics to get services they are owed.
                 [<a href="https://medium.com/@peopleshistory/2-grove-hall-16d638c5c2ae">transcript</a> |
                 <a href="https://media.blubrry.com/jacobin/content.blubrry.com/jacobin/php-s1e2.mp3">mp3</a>]</h4><br/><br/>
-            
+
             <h3>Episode Three, "Rent Strike"</h3>
             <audio controls>
               <source src="https://media.blubrry.com/jacobin/content.blubrry.com/jacobin/s1e3.mp3" type="audio/mpeg">
@@ -171,12 +142,12 @@
               <h4>Tenants take their growing dissatisfaction and aim it at their landlord, the Boston Housing Authority.
                 [<a href="https://medium.com/@peopleshistory/episode-three-rent-strike-12a59a8a1ef1">transcript</a> |
                 <a href="https://media.blubrry.com/jacobin/content.blubrry.com/jacobin/s1e3.mp3">mp3</a>]</h4>
-            
+
             <!-- Don't forget to update RSS  too! -->
-            
+
           </div>
           <!-- READINGS -->
-          <div id="readings-panel" class="panel">
+          <div id="readings" class="panel">
             <h1>Reading Series</h1>
             <hr />
             <h3>A People's Anthology</h3>
@@ -215,7 +186,7 @@
             <!-- Episode MODULES -->
           </div>
           <!-- ABOUT -->
-          <div id="about-panel" class="panel">
+          <div id="about" class="panel">
             <h1>About</h1>
             <hr /><br/>
             <h4>
@@ -256,16 +227,16 @@
               </br><br />
               Header art by Seena Mavaddat. Detail from "Community Power," copperplate print, 2019.
             </h4><br/>
-          
+
             <h4>
               People's History Podcast is an independent radio show produced by Jacobin. It is not
               associated with <a
                 href="https://www.harpercollins.com/9780062397348/a-peoples-history-of-the-united-states"
                 target="_blank"><i>A People’s History of the United States, 1492 - Present</i></a>, or related projects.
             </h4>
-          
+
           </div>
-        
+
           <footer>
             <br />
             <div class="clearfix">
@@ -316,5 +287,6 @@
         </div>
       </div>
     </div>
+    <script src="assets/scripts.js"></script>
   </body>
 </html>
