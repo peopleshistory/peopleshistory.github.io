@@ -44,10 +44,27 @@
     <itunes:summary>A documentary series about struggles in the United States. Each six-episode season covers one local story, told from the viewpoint of working-class people. Produced by Jacobin with support from the Economic Hardship Reporting Project.</itunes:summary>
     <itunes:subtitle>A podcast about class struggle in the United States.</itunes:subtitle>
 
-    <lastBuildDate>Tue, 3 December 2019 11:00:00 EST</lastBuildDate>
+    <lastBuildDate>Tue, 7 January 2020 11:00:00 EST</lastBuildDate>
     <!-- UPDATE ABOVE WITH EVERY UPDATE TO THE FEED -->
   
 <!-- SEASON ONE EPISODES - NEWEST ON TOP -->
+    
+      <item>
+    <title>4. Free Breakfast</title>
+    <description>Episode four from season one of Jacobin's People's History Podcast, "The Point: Rebellion and Resistance in Boston Public Housing." Free Breakfast for School Children, a "survival program" led by the Black Panther Party, arrives at Columbia Point. Support us on Patreon! https://www.patreon.com/peopleshistorypod</description>
+    <dc:creator>People's History Podcast</dc:creator>
+    <itunes:summary>Free Breakfast for School Children, a "survival program" led by the Black Panther Party, arrives at Columbia Point.</itunes:summary>
+    <itunes:subtitle>Free Breakfast for School Children, a "survival program" led by the Black Panther Party, arrives at Columbia Point.</itunes:subtitle>
+        <itunes:type>Serial</itunes:type>
+    <itunes:episodeType>Full</itunes:episodeType>
+        <itunes:episode>4</itunes:episode>
+        <itunes:season>1</itunes:season>
+    <itunesu:category itunesu:code="104108" />
+    <enclosure url="https://ia601407.us.archive.org/16/items/php-s1e4/php-s1e4.mp3" type="audio/mpeg" length="70817585" />
+    <guid>https://ia601407.us.archive.org/16/items/php-s1e4/php-s1e4.mp3</guid>
+    <itunes:duration>0:49:08</itunes:duration>
+    <pubDate>Tue, 7 January 2020 11:00:00 EST</pubDate>
+  </item>
     
      
      <item>
@@ -55,7 +72,7 @@
     <description>Episode three from season one of Jacobin's People's History Podcast, "The Point: Rebellion and Resistance in Boston Public Housing." Tenants take their growing dissatisfaction and aim it at their landlord, the Boston Housing Authority. Support us on Patreon! https://www.patreon.com/peopleshistorypod</description>
     <dc:creator>People's History Podcast</dc:creator>
     <itunes:summary>Tenants take their growing dissatisfaction and aim it at their landlord, the Boston Housing Authority.</itunes:summary>
-    <itunes:subtitle>Tenants take their growing dissatisfaction and aim it at their landlord, the Boston Housing Authority</itunes:subtitle>
+    <itunes:subtitle>Tenants take their growing dissatisfaction and aim it at their landlord, the Boston Housing Authority.</itunes:subtitle>
         <itunes:type>Serial</itunes:type>
     <itunes:episodeType>Full</itunes:episodeType>
         <itunes:episode>3</itunes:episode>
