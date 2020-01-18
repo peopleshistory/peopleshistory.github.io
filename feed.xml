@@ -39,15 +39,33 @@
     <itunes:category text="History" />
     </itunes:category>
     <itunes:keywords>peoples history, a people's history, zinn, people, history, howard zinn</itunes:keywords>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>yes</itunes:explicit>
     <itunes:image href="https://peopleshistorypod.net/assets/new%20title%20logo%201%20smaller.jpg" />
     <itunes:summary>A documentary series about struggles in the United States. Each six-episode season covers one local story, told from the viewpoint of working-class people. Produced by Jacobin with support from the Economic Hardship Reporting Project.</itunes:summary>
     <itunes:subtitle>A podcast about class struggle in the United States.</itunes:subtitle>
 
-    <lastBuildDate>Tue, 7 January 2020 11:00:00 EST</lastBuildDate>
+    <lastBuildDate>Sat, 18 January 2020 16:20:00 EST</lastBuildDate>
     <!-- UPDATE ABOVE WITH EVERY UPDATE TO THE FEED -->
   
 <!-- SEASON ONE EPISODES - NEWEST ON TOP -->
+    
+    <item>
+    <title>5. Carson Beach</title>
+    <description>Episode five from season one of Jacobin's People's History Podcast, "The Point: Rebellion and Resistance in Boston Public Housing." In the turmoil of busing, Betty Ann Jones advocates armed defense while Betty Washington and Dorothy Haskins lead a wade-in to protest segregation. Support us on Patreon! https://www.patreon.com/peopleshistorypod</description>
+    <dc:creator>People's History Podcast</dc:creator>
+    <itunes:summary>In the turmoil of busing, Betty Ann Jones advocates armed defense while Betty Washington and Dorothy Haskins lead a wade-in to protest segregation.</itunes:summary>
+    <itunes:subtitle>In the turmoil of busing, Betty Ann Jones advocates armed defense while Betty Washington and Dorothy Haskins lead a wade-in to protest segregation.</itunes:subtitle>
+        <itunes:type>Serial</itunes:type>
+    <itunes:episodeType>Full</itunes:episodeType>
+        <itunes:episode>5</itunes:episode>
+        <itunes:season>1</itunes:season>
+    <itunesu:category itunesu:code="104108" />
+    <enclosure url="https://ia601408.us.archive.org/0/items/phps1e5/php-s1e5.mp3" type="audio/mpeg" length="100090610" />
+    <guid>https://ia601408.us.archive.org/0/items/phps1e5/php-s1e5.mp3</guid>
+    <itunes:duration>1:09:28</itunes:duration>
+    <itunes:explicit>yes</itunes:explicit>
+    <pubDate>Sat, 18 January 2020 16:20:00 EST</pubDate>
+  </item>
     
       <item>
     <title>4. Free Breakfast</title>
@@ -63,6 +81,7 @@
     <enclosure url="https://ia601407.us.archive.org/16/items/php-s1e4/php-s1e4.mp3" type="audio/mpeg" length="70817585" />
     <guid>https://ia601407.us.archive.org/16/items/php-s1e4/php-s1e4.mp3</guid>
     <itunes:duration>0:49:08</itunes:duration>
+    <itunes:explicit>yes</itunes:explicit>
     <pubDate>Tue, 7 January 2020 11:00:00 EST</pubDate>
   </item>
     
@@ -81,6 +100,7 @@
     <enclosure url="https://ia601506.us.archive.org/5/items/phps1e3/s1e3.mp3" type="audio/mpeg" length="122624880" />
     <guid>https://ia601506.us.archive.org/5/items/phps1e3/s1e3.mp3</guid>
     <itunes:duration>0:51:04</itunes:duration>
+    <itunes:explicit>yes</itunes:explicit>
     <pubDate>Tue, 3 December 2019 11:00:00 EST</pubDate>
   </item>
     
@@ -98,6 +118,7 @@
     <enclosure url="https://ia601509.us.archive.org/6/items/phps1e2/php-s1e2.mp3" type="audio/mpeg" length="117885223" />
     <guid>https://ia601509.us.archive.org/6/items/phps1e2/php-s1e2.mp3</guid>
     <itunes:duration>0:49:05</itunes:duration>
+    <itunes:explicit>yes</itunes:explicit>
     <pubDate>Tue, 26 November 2019 11:20:00 EST</pubDate>
   </item>
     
@@ -115,6 +136,7 @@
     <enclosure url="https://ia601402.us.archive.org/0/items/PHPs1e1/php-s1e1.mp3" type="audio/mpeg" length="111481043" />
     <guid>https://ia601402.us.archive.org/0/items/PHPs1e1/php-s1e1.mp3</guid>
     <itunes:duration>0:46:25</itunes:duration>
+    <itunes:explicit>yes</itunes:explicit>
     <pubDate>Tue, 19 November 2019 11:00:00 EST</pubDate>
   </item>
   
