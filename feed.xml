@@ -60,7 +60,7 @@
         <itunes:episode>6</itunes:episode>
         <itunes:season>1</itunes:season>
     <itunesu:category itunesu:code="104108" />
-    <enclosure url="https://ia601508.us.archive.org/20/items/peopleshistorypods1e6/php6.mp3" type="audio/mpeg" length="90505344" />
+    <enclosure url="https://ia601508.us.archive.org/20/items/peopleshistorypods1e6/php6.mp3" type="audio/mpeg" length="90500328" />
     <guid>https://ia601508.us.archive.org/20/items/peopleshistorypods1e6/php6.mp3</guid>
     <itunes:duration>1:02:48</itunes:duration>
     <itunes:explicit>yes</itunes:explicit>
