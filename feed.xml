@@ -44,10 +44,29 @@
     <itunes:summary>A documentary series about struggles in the United States. Each six-episode season covers one local story, told from the viewpoint of working-class people. Produced by Jacobin with support from the Economic Hardship Reporting Project.</itunes:summary>
     <itunes:subtitle>A podcast about class struggle in the United States.</itunes:subtitle>
 
-    <lastBuildDate>Sat, 18 January 2020 16:20:00 EST</lastBuildDate>
+    <lastBuildDate>Thursday, 13 February 2020 16:05:00 EST</lastBuildDate>
     <!-- UPDATE ABOVE WITH EVERY UPDATE TO THE FEED -->
   
 <!-- SEASON ONE EPISODES - NEWEST ON TOP -->
+    
+    <item>
+    <title>6. False Hope</title>
+    <description>Episode six from season one of Jacobin's People's History Podcast, "The Point: Rebellion and Resistance in Boston Public Housing." Columbia Point tenants face new management and a private police force. Support us on Patreon! https://www.patreon.com/peopleshistorypod</description>
+    <dc:creator>People's History Podcast</dc:creator>
+    <itunes:summary>Columbia Point tenants face new management and a private police force.</itunes:summary>
+    <itunes:subtitle>Columbia Point tenants face new management and a private police force.</itunes:subtitle>
+        <itunes:type>Serial</itunes:type>
+    <itunes:episodeType>Full</itunes:episodeType>
+        <itunes:episode>6</itunes:episode>
+        <itunes:season>1</itunes:season>
+    <itunesu:category itunesu:code="104108" />
+    <enclosure url="https://ia601508.us.archive.org/20/items/peopleshistorypods1e6/php6.mp3" type="audio/mpeg" length="90505344" />
+    <guid>https://ia601508.us.archive.org/20/items/peopleshistorypods1e6/php6.mp3</guid>
+    <itunes:duration>1:02:48</itunes:duration>
+    <itunes:explicit>yes</itunes:explicit>
+    <pubDate>Thursday, 13 February 2020 16:05:00 EST</pubDate>
+  </item>
+    
     
     <item>
     <title>5. Carson Beach</title>
