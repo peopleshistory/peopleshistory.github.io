@@ -25,7 +25,7 @@
   
     <image>
         <url>https://peopleshistorypod.net/assets/new%20title%20logo%201%20smaller.jpg</url>
-        <title>People's History</title>
+        <title>People's History Podcast</title>
         <link>https://peopleshistorypod.net</link>
     </image>
 
@@ -44,7 +44,7 @@
     <itunes:summary>A documentary series about struggles in the United States. Each six-episode season covers one local story, told from the viewpoint of working-class people. Produced by Jacobin with support from the Economic Hardship Reporting Project.</itunes:summary>
     <itunes:subtitle>A podcast about class struggle in the United States.</itunes:subtitle>
 
-    <lastBuildDate>Tuesday, 15 June 2020 20:00:00 EST</lastBuildDate>
+    <lastBuildDate>Tue, 15 June 2020 20:00:00 EST</lastBuildDate>
     <!-- UPDATE ABOVE WITH EVERY UPDATE TO THE FEED -->
   
 <!-- SEASON ONE EPISODES - NEWEST ON TOP -->
@@ -56,7 +56,7 @@
     <itunes:summary>Columbia Point tenants face new management and a private police force.</itunes:summary>
     <itunes:subtitle>Columbia Point tenants face new management and a private police force.</itunes:subtitle>
         <itunes:type>Serial</itunes:type>
-    <itunes:episodeType>Full</itunes:episodeType>
+    <itunes:episodeType>full</itunes:episodeType>
         <itunes:episode>6</itunes:episode>
         <itunes:season>1</itunes:season>
     <itunesu:category itunesu:code="104108" />
@@ -64,7 +64,7 @@
     <guid>https://ia601508.us.archive.org/20/items/peopleshistorypods1e6/php6.mp3</guid>
     <itunes:duration>1:02:48</itunes:duration>
     <itunes:explicit>yes</itunes:explicit>
-    <pubDate>Thursday, 13 February 2020 16:05:00 EST</pubDate>
+    <pubDate>Thu, 13 February 2020 16:05:00 EST</pubDate>
   </item>
     
     
@@ -75,7 +75,7 @@
     <itunes:summary>In the turmoil of busing, Betty Ann Jones advocates armed defense while Betty Washington and Dorothy Haskins lead a wade-in to protest segregation.</itunes:summary>
     <itunes:subtitle>In the turmoil of busing, Betty Ann Jones advocates armed defense while Betty Washington and Dorothy Haskins lead a wade-in to protest segregation.</itunes:subtitle>
         <itunes:type>Serial</itunes:type>
-    <itunes:episodeType>Full</itunes:episodeType>
+    <itunes:episodeType>full</itunes:episodeType>
         <itunes:episode>5</itunes:episode>
         <itunes:season>1</itunes:season>
     <itunesu:category itunesu:code="104108" />
@@ -93,7 +93,7 @@
     <itunes:summary>Sisters Angie Irving and Linda Wade bring the Black Panthers to Columbia Point.</itunes:summary>
     <itunes:subtitle>Sisters Angie Irving and Linda Wade bring the Black Panthers to Columbia Point.</itunes:subtitle>
         <itunes:type>Serial</itunes:type>
-    <itunes:episodeType>Full</itunes:episodeType>
+    <itunes:episodeType>full</itunes:episodeType>
         <itunes:episode>4</itunes:episode>
         <itunes:season>1</itunes:season>
     <itunesu:category itunesu:code="104108" />
@@ -112,7 +112,7 @@
     <itunes:summary>Tenants take their growing dissatisfaction and aim it at their landlord, the Boston Housing Authority.</itunes:summary>
     <itunes:subtitle>Tenants take their growing dissatisfaction and aim it at their landlord, the Boston Housing Authority.</itunes:subtitle>
         <itunes:type>Serial</itunes:type>
-    <itunes:episodeType>Full</itunes:episodeType>
+    <itunes:episodeType>full</itunes:episodeType>
         <itunes:episode>3</itunes:episode>
         <itunes:season>1</itunes:season>
     <itunesu:category itunesu:code="104108" />
@@ -130,7 +130,7 @@
     <itunes:summary>As urban rebellions arise in cities, welfare rights advocates in Boston public housing use militant tactics to get services they are owed.</itunes:summary>
     <itunes:subtitle>As urban rebellions arise in cities, welfare rights advocates in Boston public housing use militant tactics to get services they are owed.</itunes:subtitle>
         <itunes:type>Serial</itunes:type>
-    <itunes:episodeType>Full</itunes:episodeType>
+    <itunes:episodeType>full</itunes:episodeType>
         <itunes:episode>2</itunes:episode>
         <itunes:season>1</itunes:season>
     <itunesu:category itunesu:code="104108" />
@@ -148,7 +148,7 @@
     <itunes:summary>Mothers at Columbia Point, a new public housing project in Boston, organize to try and close the city dump.</itunes:summary>
     <itunes:subtitle>Mothers at Columbia Point, a new public housing project in Boston, organize to try and close the city dump.</itunes:subtitle>
         <itunes:type>Serial</itunes:type>
-    <itunes:episodeType>Full</itunes:episodeType>
+    <itunes:episodeType>full</itunes:episodeType>
         <itunes:episode>1</itunes:episode>
         <itunes:season>1</itunes:season>
     <itunesu:category itunesu:code="104108" />
