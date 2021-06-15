@@ -38,20 +38,20 @@
     <itunes:category text="Society &amp; Culture">
     <itunes:category text="History" />
     </itunes:category>
-    <itunes:keywords>peoples history, a people's history, zinn, people, history, howard zinn</itunes:keywords>
+    <itunes:keywords>history, peoples history, a people's history, people's history, boston, history, socialism</itunes:keywords>
     <itunes:explicit>yes</itunes:explicit>
     <itunes:image href="https://peopleshistorypod.net/assets/new%20title%20logo%201%20smaller.jpg" />
     <itunes:summary>A documentary series about struggles in the United States. Each six-episode season covers one local story, told from the viewpoint of working-class people. Produced by Jacobin with support from the Economic Hardship Reporting Project.</itunes:summary>
     <itunes:subtitle>A podcast about class struggle in the United States.</itunes:subtitle>
 
-    <lastBuildDate>Thursday, 13 February 2020 16:05:00 EST</lastBuildDate>
+    <lastBuildDate>Tuesday, 15 June 2020 20:00:00 EST</lastBuildDate>
     <!-- UPDATE ABOVE WITH EVERY UPDATE TO THE FEED -->
   
 <!-- SEASON ONE EPISODES - NEWEST ON TOP -->
     
-    <item>
+  <item>
     <title>6. False Hope</title>
-    <description>Episode six from season one of Jacobin's People's History Podcast, "The Point: Rebellion and Resistance in Boston Public Housing." Columbia Point tenants face new management and a private police force. Support us on Patreon! https://www.patreon.com/peopleshistorypod</description>
+    <description>Episode six of "The Point: Rebellion and Resistance in Boston Public Housing." Columbia Point tenants face new management and a private police force. Support us on Patreon! https://www.patreon.com/peopleshistorypod</description>
     <dc:creator>People's History Podcast</dc:creator>
     <itunes:summary>Columbia Point tenants face new management and a private police force.</itunes:summary>
     <itunes:subtitle>Columbia Point tenants face new management and a private police force.</itunes:subtitle>
@@ -68,9 +68,9 @@
   </item>
     
     
-    <item>
+  <item>
     <title>5. Carson Beach</title>
-    <description>Episode five from season one of Jacobin's People's History Podcast, "The Point: Rebellion and Resistance in Boston Public Housing." In the turmoil of busing, Betty Ann Jones advocates armed defense while Betty Washington and Dorothy Haskins lead a wade-in to protest segregation. Support us on Patreon! https://www.patreon.com/peopleshistorypod</description>
+    <description>Episode five of "The Point: Rebellion and Resistance in Boston Public Housing." In the turmoil of busing, Betty Ann Jones advocates armed defense while Betty Washington and Dorothy Haskins lead a wade-in to protest segregation. Support us on Patreon! https://www.patreon.com/peopleshistorypod</description>
     <dc:creator>People's History Podcast</dc:creator>
     <itunes:summary>In the turmoil of busing, Betty Ann Jones advocates armed defense while Betty Washington and Dorothy Haskins lead a wade-in to protest segregation.</itunes:summary>
     <itunes:subtitle>In the turmoil of busing, Betty Ann Jones advocates armed defense while Betty Washington and Dorothy Haskins lead a wade-in to protest segregation.</itunes:subtitle>
@@ -86,9 +86,9 @@
     <pubDate>Sat, 18 January 2020 16:20:00 EST</pubDate>
   </item>
     
-      <item>
+  <item>
     <title>4. Free Breakfast</title>
-    <description>Episode four from season one of Jacobin's People's History Podcast, "The Point: Rebellion and Resistance in Boston Public Housing." Sisters Angie Irving and Linda Wade bring the Black Panthers to Columbia Point. Support us on Patreon! https://www.patreon.com/peopleshistorypod</description>
+    <description>Episode four of "The Point: Rebellion and Resistance in Boston Public Housing." Sisters Angie Irving and Linda Wade bring the Black Panthers to Columbia Point. Support us on Patreon! https://www.patreon.com/peopleshistorypod</description>
     <dc:creator>People's History Podcast</dc:creator>
     <itunes:summary>Sisters Angie Irving and Linda Wade bring the Black Panthers to Columbia Point.</itunes:summary>
     <itunes:subtitle>Sisters Angie Irving and Linda Wade bring the Black Panthers to Columbia Point.</itunes:subtitle>
@@ -105,9 +105,9 @@
   </item>
     
      
-     <item>
-    <title>3. Rent strike</title>
-    <description>Episode three from season one of Jacobin's People's History Podcast, "The Point: Rebellion and Resistance in Boston Public Housing." Tenants take their growing dissatisfaction and aim it at their landlord, the Boston Housing Authority. Support us on Patreon! https://www.patreon.com/peopleshistorypod</description>
+  <item>
+    <title>3. Rent Strike</title>
+    <description>Episode three of "The Point: Rebellion and Resistance in Boston Public Housing." Tenants take their growing dissatisfaction and aim it at their landlord, the Boston Housing Authority. Support us on Patreon! https://www.patreon.com/peopleshistorypod</description>
     <dc:creator>People's History Podcast</dc:creator>
     <itunes:summary>Tenants take their growing dissatisfaction and aim it at their landlord, the Boston Housing Authority.</itunes:summary>
     <itunes:subtitle>Tenants take their growing dissatisfaction and aim it at their landlord, the Boston Housing Authority.</itunes:subtitle>
@@ -123,9 +123,9 @@
     <pubDate>Tue, 3 December 2019 11:00:00 EST</pubDate>
   </item>
     
-     <item>
+  <item>
     <title>2. Grove Hall</title>
-    <description>Episode two from season one of Jacobin's People's History Podcast, "The Point: Rebellion and Resistance in Boston Public Housing." Welfare rights advocates in Boston public housing use militant tactics to get services they are owed. Support us on Patreon! https://www.patreon.com/peopleshistorypod</description>
+    <description>Episode two of "The Point: Rebellion and Resistance in Boston Public Housing." Welfare rights advocates in Boston public housing use militant tactics to get services they are owed. Support us on Patreon! https://www.patreon.com/peopleshistorypod</description>
     <dc:creator>People's History Podcast</dc:creator>
     <itunes:summary>As urban rebellions arise in cities, welfare rights advocates in Boston public housing use militant tactics to get services they are owed.</itunes:summary>
     <itunes:subtitle>As urban rebellions arise in cities, welfare rights advocates in Boston public housing use militant tactics to get services they are owed.</itunes:subtitle>
@@ -141,9 +141,9 @@
     <pubDate>Tue, 26 November 2019 11:20:00 EST</pubDate>
   </item>
     
-    <item>
+  <item>
     <title>1. Placement</title>
-    <description>Episode one from season one of Jacobin's People's History Podcast, "The Point: Rebellion and Resistance in Boston Public Housing." Mothers at Columbia Point, a new public housing project, organize to try and close the city dump. Support us on Patreon! https://www.patreon.com/peopleshistorypod</description>
+    <description>Episode one of "The Point: Rebellion and Resistance in Boston Public Housing." Mothers at Columbia Point, a new public housing project, organize to try and close the city dump. Support us on Patreon! https://www.patreon.com/peopleshistorypod</description>
     <dc:creator>People's History Podcast</dc:creator>
     <itunes:summary>Mothers at Columbia Point, a new public housing project in Boston, organize to try and close the city dump.</itunes:summary>
     <itunes:subtitle>Mothers at Columbia Point, a new public housing project in Boston, organize to try and close the city dump.</itunes:subtitle>
@@ -159,13 +159,12 @@
     <pubDate>Tue, 19 November 2019 11:00:00 EST</pubDate>
   </item>
   
-  
-<item>
+  <item>
     <title>Trailer</title>
-    <description>Episode one comes November 19.</description>
+    <description>A preview of "The Point."</description>
     <dc:creator>People's History Podcast</dc:creator>
-    <itunes:summary>Episode one comes November 19.</itunes:summary>
-    <itunes:subtitle>Episode one comes November 19.</itunes:subtitle>
+    <itunes:summary>A preview of "The Point."</itunes:summary>
+    <itunes:subtitle>A preview of "The Point."</itunes:subtitle>
     <itunes:episodeType>Trailer</itunes:episodeType>
     <itunesu:category itunesu:code="104108" />
     <enclosure url="https://peopleshistorypod.net/season1/trailer2.mp3" type="audio/mpeg" length="4333027" />
