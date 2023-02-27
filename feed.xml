@@ -17,7 +17,7 @@
     <title>People's History Podcast</title>
     <atom:link href="https://peopleshistorypod.net/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://peopleshistorypod.net</link>
-    <description>A documentary series about struggles in the United States. Each six-episode season covers one local story, told from the viewpoint of working-class people. Produced by Jacobin with support from the Economic Hardship Reporting Project.</description>
+    <description>A documentary series about class struggle and movement history. Each season covers one local story, told from the side of the people. Produced by Jacobin with support from the Economic Hardship Reporting Project.</description>
     <language>en-us</language>
     <copyright>&#xA9;2019</copyright>
     <webMaster>contact@peopleshistorypod.net (Alex)</webMaster>
@@ -41,13 +41,31 @@
     <itunes:keywords>history, peoples history, a people's history, people's history, boston, history, socialism</itunes:keywords>
     <itunes:explicit>yes</itunes:explicit>
     <itunes:image href="https://peopleshistorypod.net/assets/new%20title%20logo%201%20smaller.jpg" />
-    <itunes:summary>A documentary series about struggles in the United States. Each six-episode season covers one local story, told from the viewpoint of working-class people. Produced by Jacobin with support from the Economic Hardship Reporting Project.</itunes:summary>
-    <itunes:subtitle>A podcast about class struggle in the United States.</itunes:subtitle>
+    <itunes:summary>A documentary series about class struggle and movement history. Produced by Jacobin with support from the Economic Hardship Reporting Project.</itunes:summary>
+    <itunes:subtitle>A documentary series about class struggle and movement history.</itunes:subtitle>
 
-    <lastBuildDate>Tue, 15 Jun 2020 20:00:00 EST</lastBuildDate>
+    <lastBuildDate>Mon, 27 Feb 2023 13:00:00 EST</lastBuildDate>
     <!-- UPDATE ABOVE WITH EVERY UPDATE TO THE FEED -->
   
-<!-- SEASON ONE EPISODES - NEWEST ON TOP -->
+<!-- SEASON TWO EPISODES - NEWEST ON TOP -->
+    
+    <item>
+    <title>"We Will Remember" Trailer</title>
+    <description>On February 27, 1973, a group of Oglala Lakota and their supporters went to Wounded Knee to claim their land back.</description>
+    <dc:creator>People's History Podcast</dc:creator>
+    <itunes:summary>On February 27, 1973, a group of Oglala Lakota and their supporters went to Wounded Knee, a village on the Pine Ridge reservation in South Dakota and site of the last massacre of the Indian Wars, to claim their land back.</itunes:summary>
+    <itunes:subtitle>On February 27, 1973, a group of Oglala Lakota and their supporters went to Wounded Knee, a village on the Pine Ridge reservation in South Dakota and site of the last massacre of the Indian Wars, to claim their land back.</itunes:subtitle>
+        <itunes:type>serial</itunes:type>
+    <itunes:episodeType>Trailer</itunes:episodeType>
+    <itunesu:category itunesu:code="104108" />
+    <enclosure url="https://ia601607.us.archive.org/14/items/php-s2-trailer/php-s2-trailer.mp3" type="audio/mpeg" length="5613445" />
+    <guid>https://ia601607.us.archive.org/14/items/php-s2-trailer/php-s2-trailer.mp3</guid>
+    <itunes:duration>0:03:51</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Mon, 27 Feb 2023 13:00:00 EST</pubDate>
+  </item>
+    
+    <!-- SEASON ONE EPISODES - NEWEST ON TOP -->
     
   <item>
     <title>6. False Hope</title>
@@ -160,7 +178,7 @@
   </item>
   
   <item>
-    <title>Trailer</title>
+    <title>"The Point" Trailer</title>
     <description>A preview of "The Point."</description>
     <dc:creator>People's History Podcast</dc:creator>
     <itunes:summary>A preview of "The Point."</itunes:summary>
