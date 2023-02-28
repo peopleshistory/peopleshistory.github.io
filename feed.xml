@@ -17,7 +17,7 @@
     <title>People's History Podcast</title>
     <atom:link href="https://peopleshistorypod.net/feed.xml" rel="self" type="application/rss+xml" />
     <link>https://peopleshistorypod.net</link>
-    <description>A documentary series about class struggle and movement history. Each season covers one local story, told from the side of the people. Produced by Jacobin with support from the Economic Hardship Reporting Project.</description>
+    <description>A documentary series about class struggle and movement history. Each season covers one story told from the viewpoint of working people.</description>
     <language>en-us</language>
     <copyright>&#xA9;2019-2023</copyright>
     <webMaster>contact@peopleshistorypod.net (Alex)</webMaster>
@@ -41,7 +41,7 @@
     <itunes:keywords>history, peoples history, a people's history, people's history, boston, history, socialism</itunes:keywords>
     <itunes:explicit>yes</itunes:explicit>
     <itunes:image href="https://peopleshistorypod.net/assets/new%20title%20logo%201%20smaller.jpg" />
-    <itunes:summary>A documentary series about class struggle and movement history. Produced by Jacobin with support from the Economic Hardship Reporting Project.</itunes:summary>
+    <itunes:summary>A documentary series about class struggle and movement history. Produced with Jacobin and The Real News Network.</itunes:summary>
     <itunes:subtitle>A documentary series about class struggle and movement history.</itunes:subtitle>
 
     <lastBuildDate>Mon, 27 Feb 2023 13:00:00 EST</lastBuildDate>
