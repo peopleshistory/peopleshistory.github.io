@@ -44,27 +44,12 @@
     <itunes:summary>A documentary series about class struggle and movement history. Produced in association with Jacobin and The Real News Network.</itunes:summary>
     <itunes:subtitle>A documentary series about class struggle and movement history.</itunes:subtitle>
 
-    <lastBuildDate>Mon, 27 Feb 2023 23:15:00 EST</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jan 2024 12:15:00 EST</lastBuildDate>
+    
     <!-- UPDATE ABOVE WITH EVERY UPDATE TO THE FEED -->
   
 <!-- SEASON TWO EPISODES - NEWEST ON TOP -->
-    
-    <item>
-    <title>"We Will Remember" Trailer</title>
-    <description>On February 27, 1973, a group of Oglala Lakota and members of the American Indian Movement began occupying the village of Wounded Knee.</description>
-    <dc:creator>People's History Podcast</dc:creator>
-    <itunes:summary>On February 27, 1973, a group of Oglala Lakota and members of the American Indian Movement began occupying the village of Wounded Knee.</itunes:summary>
-    <itunes:subtitle>On February 27, 1973, a group of Oglala Lakota and members of the American Indian Movement began occupying the village of Wounded Knee.</itunes:subtitle>
-        <itunes:type>serial</itunes:type>
-    <itunes:episodeType>Trailer</itunes:episodeType>
-    <itunesu:category itunesu:code="104108" />
-    <enclosure url="https://ia601607.us.archive.org/14/items/php-s2-trailer/php-s2-trailer.mp3" type="audio/mpeg" length="5613445" />
-    <guid>https://ia601607.us.archive.org/14/items/php-s2-trailer/php-s2-trailer.mp3</guid>
-    <itunes:duration>0:03:51</itunes:duration>
-    <itunes:explicit>no</itunes:explicit>
-    <pubDate>Mon, 27 Feb 2023 13:00:00 EST</pubDate>
-  </item>
-    
+   
     <!-- SEASON ONE EPISODES - NEWEST ON TOP -->
     
   <item>
