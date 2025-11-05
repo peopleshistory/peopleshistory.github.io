@@ -41,10 +41,10 @@
     <itunes:keywords>history, peoples history, a people's history, people's history, boston, history, socialism</itunes:keywords>
     <itunes:explicit>yes</itunes:explicit>
     <itunes:image href="https://peopleshistorypod.net/assets/new%20title%20logo%201%20smaller.jpg" />
-    <itunes:summary>A documentary series about class struggle and movement history. Produced in association with Jacobin and The Real News Network.</itunes:summary>
+    <itunes:summary>A documentary series about class struggle and movement history. Produced in association with Jacobin.</itunes:summary>
     <itunes:subtitle>A documentary series about class struggle and movement history.</itunes:subtitle>
 
-    <lastBuildDate>Wed, 10 Jan 2024 12:15:00 EST</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 10:25:00 EST</lastBuildDate>
     
     <!-- UPDATE ABOVE WITH EVERY UPDATE TO THE FEED -->
   
@@ -54,7 +54,7 @@
     
   <item>
     <title>6. False Hope</title>
-    <description>Episode six of "The Point: Rebellion and Resistance in Boston Public Housing." Columbia Point tenants face new management and a private police force. Support us on Patreon! https://www.patreon.com/peopleshistorypod</description>
+    <description>Columbia Point tenants face new management and a private police force. This is the final, sixth episode of “The Point: Rebellion and Resistance in Boston Public Housing.”</description>
     <dc:creator>People's History Podcast</dc:creator>
     <itunes:summary>Columbia Point tenants face new management and a private police force.</itunes:summary>
     <itunes:subtitle>Columbia Point tenants face new management and a private police force.</itunes:subtitle>
@@ -73,7 +73,7 @@
     
   <item>
     <title>5. Carson Beach</title>
-    <description>Episode five of "The Point: Rebellion and Resistance in Boston Public Housing." In the turmoil of busing, Betty Ann Jones advocates armed defense while Betty Washington and Dorothy Haskins lead a wade-in to protest segregation. Support us on Patreon! https://www.patreon.com/peopleshistorypod</description>
+    <description>In the turmoil of busing, Betty Ann Jones advocates armed defense while Betty Washington and Dorothy Haskins lead a wade-in to protest segregation. This is the fifth episode of “The Point: Rebellion and Resistance in Boston Public Housing.”</description>
     <dc:creator>People's History Podcast</dc:creator>
     <itunes:summary>In the turmoil of busing, Betty Ann Jones advocates armed defense while Betty Washington and Dorothy Haskins lead a wade-in to protest segregation.</itunes:summary>
     <itunes:subtitle>In the turmoil of busing, Betty Ann Jones advocates armed defense while Betty Washington and Dorothy Haskins lead a wade-in to protest segregation.</itunes:subtitle>
@@ -91,7 +91,7 @@
     
   <item>
     <title>4. Free Breakfast</title>
-    <description>Episode four of "The Point: Rebellion and Resistance in Boston Public Housing." Sisters Angie Irving and Linda Wade bring the Black Panthers to Columbia Point. Support us on Patreon! https://www.patreon.com/peopleshistorypod</description>
+    <description>Sisters Angie Irving and Linda Wade bring the Black Panthers to Columbia Point. This is the fourth episode of “The Point: Rebellion and Resistance in Boston Public Housing.”</description>
     <dc:creator>People's History Podcast</dc:creator>
     <itunes:summary>Sisters Angie Irving and Linda Wade bring the Black Panthers to Columbia Point.</itunes:summary>
     <itunes:subtitle>Sisters Angie Irving and Linda Wade bring the Black Panthers to Columbia Point.</itunes:subtitle>
@@ -110,7 +110,7 @@
      
   <item>
     <title>3. Rent Strike</title>
-    <description>Episode three of "The Point: Rebellion and Resistance in Boston Public Housing." Tenants take their growing dissatisfaction and aim it at their landlord, the Boston Housing Authority. Support us on Patreon! https://www.patreon.com/peopleshistorypod</description>
+    <description>Tenants take their growing dissatisfaction and aim it at their landlord, the Boston Housing Authority. This is the third episode of “The Point: Rebellion and Resistance in Boston Public Housing.”</description>
     <dc:creator>People's History Podcast</dc:creator>
     <itunes:summary>Tenants take their growing dissatisfaction and aim it at their landlord, the Boston Housing Authority.</itunes:summary>
     <itunes:subtitle>Tenants take their growing dissatisfaction and aim it at their landlord, the Boston Housing Authority.</itunes:subtitle>
@@ -128,7 +128,7 @@
     
   <item>
     <title>2. Grove Hall</title>
-    <description>Episode two of "The Point: Rebellion and Resistance in Boston Public Housing." Welfare rights advocates in Boston public housing use militant tactics to get services they are owed. Support us on Patreon! https://www.patreon.com/peopleshistorypod</description>
+    <description>Welfare rights advocates in Boston public housing use militant tactics to get services they are owed. This is the second episode of “The Point: Rebellion and Resistance in Boston Public Housing.”</description>
     <dc:creator>People's History Podcast</dc:creator>
     <itunes:summary>During a period of urban rebellion, welfare rights advocates in Boston public housing use militant tactics to get services they are owed.</itunes:summary>
     <itunes:subtitle>During a period of urban rebellion, welfare rights advocates in Boston public housing use militant tactics to get services they are owed.</itunes:subtitle>
@@ -146,7 +146,7 @@
     
   <item>
     <title>1. Placement</title>
-    <description>Episode one of "The Point: Rebellion and Resistance in Boston Public Housing." Mothers at Columbia Point, a new public housing project, organize to try and close the city dump. Support us on Patreon! https://www.patreon.com/peopleshistorypod</description>
+    <description>Mothers at Columbia Point, a new public housing project, organize to try and close the city dump. This is the first episode of “The Point: Rebellion and Resistance in Boston Public Housing.”</description>
     <dc:creator>People's History Podcast</dc:creator>
     <itunes:summary>Mothers at Columbia Point, a new public housing project in Boston, organize to try and close the city dump.</itunes:summary>
     <itunes:subtitle>Mothers at Columbia Point, a new public housing project in Boston, organize to try and close the city dump.</itunes:subtitle>
@@ -163,11 +163,11 @@
   </item>
   
   <item>
-    <title>"The Point" Trailer</title>
-    <description>A preview of "The Point."</description>
+    <title>“The Point” Trailer</title>
+    <description>A story of rebellion and resistance in Boston public housing.</description>
     <dc:creator>People's History Podcast</dc:creator>
-    <itunes:summary>A preview of "The Point."</itunes:summary>
-    <itunes:subtitle>A preview of "The Point."</itunes:subtitle>
+    <itunes:summary>A story of rebellion and resistance in Boston public housing.</itunes:summary>
+    <itunes:subtitle>A story of rebellion and resistance in Boston public housing.</itunes:subtitle>
     <itunes:episodeType>Trailer</itunes:episodeType>
     <itunesu:category itunesu:code="104108" />
     <enclosure url="https://peopleshistorypod.net/season1/trailer2.mp3" type="audio/mpeg" length="4333027" />
